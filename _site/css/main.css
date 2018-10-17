@@ -2584,6 +2584,10 @@ form select {
   color: #b40101;
   margin-top: -20px; }
 
+.png-logo {
+  float: left;
+  margin: 10px; }
+
 .recruiting {
   text-align: center; }
 
