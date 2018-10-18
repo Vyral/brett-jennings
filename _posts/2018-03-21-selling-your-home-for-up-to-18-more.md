@@ -19,7 +19,7 @@ blogger_id: tag:blogger.com,1999:blog-6699554447557527118.post-88431930488051365
 blogger_orig_url: http://www.siliconvalleyrealestatejournal.com/2018/03/selling-your-home-for-up-to-18-more.html
 ---
 {% include youtube.html %}
-We can sell your home for up to 18% more money. We’ll prove it to you. To watch the FULL VERSION of my presentation, CLICK HERE.
+We can sell your home for up to 18% more money. We’ll prove it to you.
 
 <div class="post-cta">
 Considering Buying? <a href="http://www.siliconvalleyrealestatesearch.com/?utm_source=BLOG&utm_campaign=Video+Blog&utm_medium=referral" target="_blank">Click here for gateway access to MLS</a><br>
