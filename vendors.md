@@ -63,9 +63,9 @@ Below is our list of platinum vendors. All of these professionals are our servic
 
 <p>In 2013 attorney Moore was appointed Chair of the Chapter 13 Trustee Committee and was recently invited to serve as a Bench-Bar Liaison by the Judges in Northern California. With attorney Kirk Moore as your legal counsel, you will have an experienced attorney who will listen to your needs as well as fight for your rights in court.</p>
 
-<p>Our client’s success is our number one goal. Come see what it feels like to speak with an attorney who always treats you as a person, rather than a case number.<br>
-<strong>Law Offices of W. Kirk Moore</strong></p>
-<p>586 N 1st Street, Suite 202<br>
+<p>Our client’s success is our number one goal. Come see what it feels like to speak with an attorney who always treats you as a person, rather than a case number.</p>
+<p><strong>Law Offices of W. Kirk Moore</strong>
+586 N 1st Street, Suite 202<br>
 San Jose, CA 95112<br>
 408-922-6433
 </p>
