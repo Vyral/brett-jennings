@@ -21,13 +21,13 @@ youtube_code: C5SHGRopNCs
 
 Maximizing your home’s value doesn’t have to cost an arm and a leg. We are excited to share with you today eight different ways that you can add up to $50,000 to your home’s value by spending less than $6,000:
 
-**1. Deep clean your home.** Hire a cleaner that’s going to get all the grease off of your range hood, dust in the areas that you haven’t seen for awhile, and get the house looking immaculate. It will make the home feel inviting and give buyers a great first impression.
+**1. Deep clean your home.** Hire a cleaner that’s going to get all the grease off of your range hood, dust in the areas that you haven’t seen for a while, and get the house looking immaculate. It will make the home feel inviting and give buyers a great first impression.
 
 **2. Declutter the home.** Put away anything that’s smaller than a football that sits on your shelf. Any old, clunky furniture should go in the garage as well. It’s all about maximizing and showcasing the space you have.
 
 **3. Paint.** You don’t need to paint every square inch of every room, you might just need some touch-ups here and there. Make sure everything is in a neutral color.
 
-**4. Update any fixtures or appliances.** This includes door knobs, hinges, and switches. These are relatively low-cost updates, but they bring a lot of value to your property. You could spend as little as $500 but add thousands in value.
+**4. Update any fixtures or appliances.** This includes doorknobs, hinges, and switches. These are relatively low-cost updates, but they bring a lot of value to your property. You could spend as little as $500 but add thousands in value.
 
 {% include pullquote.html %}
 
@@ -37,6 +37,6 @@ Maximizing your home’s value doesn’t have to cost an arm and a leg. We are e
 
 **7. Clean the carpets.** We work with a few different carpet cleaners that do amazing work and can restore your carpets to just like new. This will probably cost a few hundred bucks.
 
-**8. Have a home inspection.** There are problems that we can’t see just from looking at the home, but we want to address and fix anything that’s wrong before we get it listed. A home inspection will cost around $750, but will help address any deferred maintenance and take any surprises out of the equation.
+**8. Have a home inspection.** There are problems that we can’t see just from looking at the home, but we want to address and fix anything that’s wrong before we get it listed. A home inspection will cost around $750, but it will also help address any deferred maintenance and take any surprises out of the equation.
 
 If you have any questions about this list or if you want more tips on how to get your home ready for sale, please feel free to give us a call or send us an email any time. We look forward to hearing from you soon.
