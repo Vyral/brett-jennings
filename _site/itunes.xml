@@ -7,13 +7,13 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Brett Jennings Real Estate Experts - your professional Silicon Valley Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Brett Jennings</managingEditor>
-    <lastBuildDate>2018-10-18 13:48:44 -0500</lastBuildDate>
+    <lastBuildDate>2018-11-06 14:53:40 -0600</lastBuildDate>
     <media:copyright>Brett Jennings</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Silicon Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>brett@bjrex.com</itunes:email>
+      <itunes:email>Brett@TheRealExperts.com</itunes:email>
       <itunes:name>Brett Jennings</itunes:name>
     </itunes:owner>
     <itunes:author>Brett Jennings</itunes:author>
@@ -25,6 +25,49 @@
       <itunes:category text="Education"/>
     
       <item>
+        <title>8 Ways to Increase Your Home’s Value on a Budget</title>
+        <link>http://localhost:4000/8-ways-to-increase-your-homes-value-on-a-budget.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Brett Jennings</author>
+        <pubDate>2018-11-05 14:28:42 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/Videos/2018/November/Brett+Jennings+Real+Estate+Experts-+8+Ways+to+Increase+Your+Homes+Value+on+a+Budget.mp4</guid>
+        <description>
+
+Maximizing your home’s value doesn’t have to cost an arm and a leg. We are excited to share with you today eight different ways that you can add up to $50,000 to your home’s value by spending less than $6,000:
+
+1. Deep clean your home. Hire a cleaner that’s going to get all the grease off of your range hood, dust in the areas that you haven’t seen for a while, and get the house looking immaculate. It will make the home feel inviting and give buyers a great first impression.
+
+2. Declutter the home. Put away anything that’s smaller than a football that sits on your shelf. Any old, clunky furniture should go in the garage as well. It’s all about maximizing and showcasing the space you have.
+
+3. Paint. You don’t need to paint every square inch of every room, you might just need some touch-ups here and there. Make sure everything is in a neutral color.
+
+4. Update any fixtures or appliances. This includes doorknobs, hinges, and switches. These are relatively low-cost updates, but they bring a lot of value to your property. You could spend as little as $500 but add thousands in value.
+
+“A home inspection will make sure that no problems are overlooked.”
+
+5. Update the landscaping. Trim back overgrown bushes, put down some fresh mulch, and plant some new flowers.
+
+6. Small bathroom updates. If you have an older bathroom with an older light fixture or vanity, you can get a brand new one for $500 or $600 that will completely update the look of the room.
+
+7. Clean the carpets. We work with a few different carpet cleaners that do amazing work and can restore your carpets to just like new. This will probably cost a few hundred bucks.
+
+8. Have a home inspection. There are problems that we can’t see just from looking at the home, but we want to address and fix anything that’s wrong before we get it listed. A home inspection will cost around $750, but it will also help address any deferred maintenance and take any surprises out of the equation.
+
+If you have any questions about this list or if you want more tips on how to get your home ready for sale, please feel free to give us a call or send us an email any time. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/Videos/2018/November/Brett+Jennings+Real+Estate+Experts-+8+Ways+to+Increase+Your+Homes+Value+on+a+Budget.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/Videos/2018/November/Brett+Jennings+Real+Estate+Experts-+8+Ways+to+Increase+Your+Homes+Value+on+a+Budget.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>You can maximize the value of your home when it comes time to sell without spending too much money. Here are eight of our best budget-friendly tips.</itunes:subtitle>
+        <itunes:author>Brett Jennings</itunes:author>
+        <itunes:summary>You can maximize the value of your home when it comes time to sell without spending too much money. Here are eight of our best budget-friendly tips.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Silicon Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Can Facebook Help You Sell Your Home?</title>
         <link>http://localhost:4000/can-facebook-help-you-sell-your-home.html</link>
         
@@ -34,7 +77,6 @@
         <pubDate>2018-10-15 18:26:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/Videos/2018/October/Brett+Jennings+Real+Estate+Experts-+Can+Facebook+Help+You+Sell+Your+Home%253F.mp4</guid>
         <description>
-
 If used correctly, Facebook can be an amazing marketing tool for today’s home sellers.
 
 
@@ -68,13 +110,11 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/Videos/2018/October/Brett+Jennings+Real+Estate+Experts-+Can+Facebook+Help+You+Sell+Your+Home%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 If used correctly, Facebook can be an amazing marketing tool for today’s home sellers.
 
 </itunes:subtitle>
         <itunes:author>Brett Jennings</itunes:author>
         <itunes:summary>
-
 If used correctly, Facebook can be an amazing marketing tool for today’s home sellers.
 
 </itunes:summary>
@@ -960,16 +1000,13 @@ With real estate prices peaking, many of you who are considering selling your ho
       </item>
       
       <item>
-        <title>Three Things to Keep in Mind When Selecting a Mover </title>
-        <link>http://localhost:4000/hiring-moving-company.html</link>
-        
-          <category>Moving Tips</category>
+        <title>Three Things to Keep in Mind When Selecting a Mover</title>
+        <link>http://localhost:4000/three-things-to-keep-in-mind-when-selecting-a-mover.html</link>
         
         <author>Brett Jennings</author>
         <pubDate>2015-08-28 10:40:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/Los+Gatos+Real+Estate+Agent+What+to+look+for+when+hiring+a+moving+company.mp4</guid>
         <description>
-
 Today, Scott Cramer from Ace Relocation joins us to discuss three things to look for when selecting a moving company.
 
 
@@ -995,13 +1032,11 @@ As always, if you have any questions for us, give us a call or send us an email.
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/Los+Gatos+Real+Estate+Agent+What+to+look+for+when+hiring+a+moving+company.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today, Scott Cramer from Ace Relocation joins us to discuss three things to look for when selecting a moving company.
 
 </itunes:subtitle>
         <itunes:author>Brett Jennings</itunes:author>
         <itunes:summary>
-
 Today, Scott Cramer from Ace Relocation joins us to discuss three things to look for when selecting a moving company.
 
 </itunes:summary>
