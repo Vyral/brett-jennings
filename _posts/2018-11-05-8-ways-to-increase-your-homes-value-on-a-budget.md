@@ -25,7 +25,7 @@ Maximizing your home’s value doesn’t have to cost an arm and a leg. There ar
 
 **2. Declutter the home.** Put away anything that’s smaller than a football that sits on your shelf. Any old, clunky furniture should go in the garage as well. It’s all about maximizing and showcasing the space you have.
 
-**3. Paint.** You don’t need to paint every square inch of every room - you might just need some touch-ups here and there. Make sure everything is in a neutral color.
+**3. Paint.** You don’t need to paint every square inch of every room—you might just need some touch-ups here and there. Make sure everything is in a neutral color.
 
 **4. Update any fixtures or appliances.** This includes doorknobs, hinges, and switches. These are relatively low-cost updates, but they bring a lot of value to your property. You could spend as little as $500 but add thousands in value.
 
