@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8 Ways to Increase Your Home’s Value on a Budget
-date: 2018-11-05 20:28:42
+date: 2018-11-05 20:28:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/increase-home-value-youtube.jpg
-youtube_code: C5SHGRopNCs
+youtube_code: 9IkmOUA4YjU
 ---
 
 {% include youtube.html %}
