@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Power of Partnership
-date: 2019-02-28 00:00:00
+date: 2023-01-31 00:00:00
 tags:
   - Real Estate
 excerpt: >-
   We’ve combined forces with Olympia Pistalu to make your real estate experience
   more prosperous and fulfilling in 2019 and beyond. Meet Olympia in today’s
   message.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/February/Brett+Jennings+Real+Estate+Experts-+Introducing+Olympia+Pistalu%2C+the+Latest+Addition+to+Our+Team.mp4
+enclosure:
 pullquote: >-
   With the 10 years of experience we bring, there’s added value in us working
   together.
