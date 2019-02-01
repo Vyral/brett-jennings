@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/combining-forces-youtube.jpg
-youtube_code: Hmd0-OO_u_E
+youtube_code: E7desGiSU0c
 ---
 
 {% include youtube.html %}
