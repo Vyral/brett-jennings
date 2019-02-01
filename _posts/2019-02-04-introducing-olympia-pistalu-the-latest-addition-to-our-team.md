@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Introducing Olympia Pistalu, the Latest Addition to Our Team'
-date:
+date: 2019-02-04 00:00:00
 tags:
   - Real Estate
 excerpt: >-
