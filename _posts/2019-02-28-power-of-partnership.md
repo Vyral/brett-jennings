@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Power of Partnership
-date: 2019-02-06 00:00:00
+date: 2019-02-28 00:00:00
 tags:
   - Real Estate
 excerpt: >-
