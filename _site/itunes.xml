@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Brett Jennings Real Estate Experts - your professional Silicon Valley Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Brett Jennings</managingEditor>
-    <lastBuildDate>2018-11-06 14:53:40 -0600</lastBuildDate>
+    <lastBuildDate>2019-02-01 16:08:41 -0600</lastBuildDate>
     <media:copyright>Brett Jennings</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Silicon Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,23 +25,97 @@
       <itunes:category text="Education"/>
     
       <item>
+        <title>Power of Partnership</title>
+        <link>http://localhost:4000/power-of-partnership.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brett Jennings</author>
+        <pubDate>2019-01-31 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+I’m very happy to announce that myself and Olympia Pistalu are combining our businesses into one operation, where we’ll bring equal parts enthusiasm and professionalism to better serve your needs this year and beyond!
+
+If you’re unfamiliar with Olympia and her career accomplishments, I’d like to give a brief introduction: She launched in 2016, and in her first year with Coldwell Banker, she earned the designation of Rookie of the Year. She circled around my world this year, and with the 10 years of experience we bring, there’s added value in us working together.
+
+“With the 10 years of experience we bring, there’s added value in us working together.”
+
+Olympia cites her confidence that our systems and processes will facilitate her ability to enhance her clients’ experiences and our clients’ experiences overall as a key reason she decided to join the team.
+
+To that end, the two of us want to be a great resource for you, as it relates to real estate. Therefore, we’ll be reaching out to you on a regular basis with some of the most relevant information from today’s market.
+
+If you’re thinking about selling your home or you’re curious about your home’s value, click on the “home value” tab. This will give you an instant value of your home. And if you’re considering buying, click on the “home search” tab. This will give you access to all homes for sale in Silicon Valley.
+
+If you have questions or for help with any and all of your real estate needs, feel free to reach out to Olympia and the rest of our team. We look forward to serving you in 2019!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’ve combined forces with Olympia Pistalu to make your real estate experience more prosperous and fulfilling in 2019 and beyond. Meet Olympia in today’s message.</itunes:subtitle>
+        <itunes:author>Brett Jennings</itunes:author>
+        <itunes:summary>We’ve combined forces with Olympia Pistalu to make your real estate experience more prosperous and fulfilling in 2019 and beyond. Meet Olympia in today’s message.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Silicon Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Tips to Help You Hire the Right Listing Agent</title>
+        <link>http://localhost:4000/4-tips-to-help-you-hire-the-right-listing-agent.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Brett Jennings</author>
+        <pubDate>2019-01-08 14:16:46 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/Videos/2019/January/Brett+Jennings+Real+Estate+Experts-+4+Tips+to+Help+You+Hire+the+Right+Listing+Agent.mp4</guid>
+        <description>
+
+How can you find the right agent when selling your home? There are four key criteria that you should look out for:
+
+1. How much experience do they have? Did you know that 90% of home sales are done by 10% of the available real estate agents? Fortunately in today’s market, we do have an online resource that provides transparency to consumers: Zillow. You can see how many home sales an agent has done, figure out who’s doing business by looking at their activity, and find out what it’s like to work with an agent by reading their reviews. From there, pick two to three agents to interview.
+
+2. What are their specific skills and training? Selling a home is a lot different than buying a home and requires a completely different skill set. You should also make sure that your agent has experience in home improvement. Homes that are prepared and updated for the market are selling for 5% to 7% more money than homes that aren’t. An agent with home improvement experience can tell you where to put money into your house in order to get the most money possible out of your home sale.
+
+“90% of home sales are made by 10% of real estate agents.”
+
+Online marketing skills are also incredibly important. These days, 98% of buyers start their home search online. The price your home sells for is a function of how many people see it online and how many of those come to see it in person.
+
+Finally, make sure your agent has great negotiation skills. Have they been trained in negotiation? Our agents are all certified negotiators. We also have one of the most innovative real estate teams in the country when it comes to online marketing, and about 75% of our clients have us help them during home renovations.
+
+3. Does the agent have deep resources? Preparing a home for sale can be a big job. You may need to get carpeting cleaned or replaced, update the kitchen, or take care of other home improvements. You need to hire someone with a team of resources to take a lot of that work off your plate. Hire someone who can put you in touch with a great mover as well.
+
+4. Hire someone you feel comfortable with. Selling a home can be stressful. Selling also takes longer than buying a home. Buying a home usually takes about 30 days. Selling can be a 90-day process, so hire an agent that has a great personality. It’s important that you feel comfortable working with this agent for the next two to three months.
+
+We are happy to help you with any other home selling questions you may have. Just give us a call or send us an email. We look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/Videos/2019/January/Brett+Jennings+Real+Estate+Experts-+4+Tips+to+Help+You+Hire+the+Right+Listing+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/Videos/2019/January/Brett+Jennings+Real+Estate+Experts-+4+Tips+to+Help+You+Hire+the+Right+Listing+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How can you make sure that you hire the best real estate agent for your home sale? I’ll go over four criteria you should look for when interviewing agents.</itunes:subtitle>
+        <itunes:author>Brett Jennings</itunes:author>
+        <itunes:summary>How can you make sure that you hire the best real estate agent for your home sale? I’ll go over four criteria you should look for when interviewing agents.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Silicon Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>8 Ways to Increase Your Home’s Value on a Budget</title>
         <link>http://localhost:4000/8-ways-to-increase-your-homes-value-on-a-budget.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Brett Jennings</author>
-        <pubDate>2018-11-05 14:28:42 -0600</pubDate>
+        <pubDate>2018-11-05 14:28:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/Videos/2018/November/Brett+Jennings+Real+Estate+Experts-+8+Ways+to+Increase+Your+Homes+Value+on+a+Budget.mp4</guid>
         <description>
 
-Maximizing your home’s value doesn’t have to cost an arm and a leg. We are excited to share with you today eight different ways that you can add up to $50,000 to your home’s value by spending less than $6,000:
+Maximizing your home’s value doesn’t have to cost an arm and a leg. There are eight different ways that you can add up to $50,000 to your home’s value by spending less than $6,000:
 
-1. Deep clean your home. Hire a cleaner that’s going to get all the grease off of your range hood, dust in the areas that you haven’t seen for a while, and get the house looking immaculate. It will make the home feel inviting and give buyers a great first impression.
+1. Deep clean your home. Hire a cleaner that’s going to get all the grease off of your range hood, dust in the areas that you haven’t seen for a while, and get the house looking immaculate. This will make the home feel inviting and give buyers a great first impression.
 
 2. Declutter the home. Put away anything that’s smaller than a football that sits on your shelf. Any old, clunky furniture should go in the garage as well. It’s all about maximizing and showcasing the space you have.
 
-3. Paint. You don’t need to paint every square inch of every room, you might just need some touch-ups here and there. Make sure everything is in a neutral color.
+3. Paint. You don’t need to paint every square inch of every room—you might just need some touch-ups here and there. Make sure everything is in a neutral color.
 
 4. Update any fixtures or appliances. This includes doorknobs, hinges, and switches. These are relatively low-cost updates, but they bring a lot of value to your property. You could spend as little as $500 but add thousands in value.
 

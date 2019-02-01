@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Power of Partnership
-date: 2019-02-27 00:00:00
+date: 2019-02-01 00:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,6 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/combining-forces-youtube.jpg
 youtube_code: E7desGiSU0c
+hidden: true
 ---
 
 {% include youtube.html %}

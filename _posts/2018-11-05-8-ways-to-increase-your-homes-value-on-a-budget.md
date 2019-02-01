@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/increase-home-value-youtube.jpg
 youtube_code: 9IkmOUA4YjU
+hidden: false
 ---
 
 {% include youtube.html %}

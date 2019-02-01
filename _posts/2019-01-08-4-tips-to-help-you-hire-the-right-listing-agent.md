@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/best-agent-youtube.jpg
 youtube_code: DBkEKJjhp7U
+hidden: false
 ---
 
 {% include youtube.html %}
