@@ -22,7 +22,10 @@ hidden: true
 
 {% include youtube.html %}
 
-![](/uploads/hs.png){: .quarter-image}![](/uploads/hv.png){: .quarter-image}
+<div class="center">
+<a href="https://olympia.siliconvalleyrealestatesearch.com/" target="_blank"><img src="/uploads/hs.png" class="photo-cta"></a>
+<a href="https://olympia.siliconvalleyrealestatesearch.com/home-valuation/" target="_blank"><img src="/uploads/hv.png" class="photo-cta"></a>
+</div>
 
 **I’m very happy to announce that myself and Olympia Pistalu are combining our businesses into one operation,** where we’ll bring equal parts enthusiasm and professionalism to better serve your needs this year and beyond!
 
