@@ -22,7 +22,7 @@ hidden: true
 
 {% include youtube.html %}
 
-![](/uploads/hs.png)(/uploads/hv.png){: .quarter-image}
+![](/uploads/hs.png){: .quarter-image}![](/uploads/hv.png){: .quarter-image}
 
 **I’m very happy to announce that myself and Olympia Pistalu are combining our businesses into one operation,** where we’ll bring equal parts enthusiasm and professionalism to better serve your needs this year and beyond!
 
