@@ -22,6 +22,8 @@ hidden: true
 
 {% include youtube.html %}
 
+![](/uploads/hs.png)![](/uploads/hv.png)
+
 **I’m very happy to announce that myself and Olympia Pistalu are combining our businesses into one operation,** where we’ll bring equal parts enthusiasm and professionalism to better serve your needs this year and beyond!
 
 If you’re unfamiliar with Olympia and her career accomplishments, I’d like to give a brief introduction: She launched in 2016, and in her first year with Coldwell Banker, she earned the designation of Rookie of the Year. She circled around my world this year, and **with the 10 years of experience we bring, there’s added value in us working together.**
