@@ -16,15 +16,15 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/combining-forces-youtube.jpg
-youtube_code: E7desGiSU0c
+youtube_code: 9sXL2_WJ0ls
 hidden: true
 ---
 
 {% include youtube.html %}
 
 <div class="center">
-<a href="https://olympia.siliconvalleyrealestatesearch.com/" target="_blank"><img src="/uploads/hs.png" class="photo-cta"></a>
-<a href="https://olympia.siliconvalleyrealestatesearch.com/home-valuation/" target="_blank"><img src="/uploads/hv.png" class="photo-cta"></a>
+<a href="https://olympia.siliconvalleyrealestatesearch.com/" target="_blank"><img src="/uploads/hs.png" class="photo-cta" /></a>
+<a href="https://olympia.siliconvalleyrealestatesearch.com/home-valuation/" target="_blank"><img src="/uploads/hv.png" class="photo-cta" /></a>
 </div>
 
 **I’m very happy to announce that myself and Olympia Pistalu are combining our businesses into one operation,** where we’ll bring equal parts enthusiasm and professionalism to better serve your needs this year and beyond!
