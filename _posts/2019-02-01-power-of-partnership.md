@@ -22,7 +22,7 @@ hidden: true
 
 {% include youtube.html %}
 
-<img src = "/uploads/hs.png" class = "post-image"><img src = "/uploads/hv.png" class = "post-image">
+![](/uploads/hs.png){: .half-image}<br>![](/uploads/hv.png){: .half-image}
 
 **I’m very happy to announce that myself and Olympia Pistalu are combining our businesses into one operation,** where we’ll bring equal parts enthusiasm and professionalism to better serve your needs this year and beyond!
 
