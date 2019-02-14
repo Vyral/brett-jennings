@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tips to Help You Hire the Right Listing Agent
-date: 2019-01-08 20:16:46
+date: 2019-01-08 20:16:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/best-agent-youtube.jpg
-youtube_code: DBkEKJjhp7U
+youtube_code: SgHcN8HKP9Y
 hidden: false
 ---
 
