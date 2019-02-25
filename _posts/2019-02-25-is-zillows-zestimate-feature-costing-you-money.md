@@ -23,8 +23,6 @@ hidden: false
 
 {% include youtube.html %}
 
-&nbsp;
-
 The big questions for today are: What is a Zestimate, how accurate is it, and how can you make sure that it’s not costing you money?
 
 **What is a Zestimate?** Well, the Zestimate is just an automated valuation model that’s derived from an algorithm that incorporates basic, public information about your home and other homes in the area to come up with an estimated value.
