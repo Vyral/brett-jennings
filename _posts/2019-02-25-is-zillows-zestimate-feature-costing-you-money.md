@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Zillow’s Zestimate Feature Costing You Money?
-date: 2019-02-25 22:37:50
+date: 2019-02-25 22:37:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/zestimate-youtube.jpg
+youtube_alternate_image: /uploads/zestimate-youtube-02.jpg
 youtube_code: 7q9ckXrmY8Y
 hidden: false
 ---
@@ -27,7 +27,7 @@ The big questions for today are: What is a Zestimate, how accurate is it, and ho
 
 **What is a Zestimate?** Well, the Zestimate is just an automated valuation model that’s derived from an algorithm that incorporates basic, public information about your home and other homes in the area to come up with an estimated value.
 
-**Is the Zestimate accurate?** Well, Zillow’s own website admits that the Zestimate can be anywhere from 10% to 20% off the market value of a home. It really only is meant to be a starting point.&nbsp;
+**Is the Zestimate accurate?** Well, Zillow’s own website admits that the Zestimate can be anywhere from 10% to 20% off the market value of a home. It really only is meant to be a starting point. 
 
 **What affects the value of a Zestimate?** The algorithm used to value a home is based on the specifics of your home, like your bed and bath count, the market trends in your area, or how much the aggregate value of your zip code has increased; and it also looks at recent or past sales. If you’ve sold your home recently for below market value, your home’s Zestimate will be a little undervalued until a certain amount of time has passed.
 
