@@ -22,7 +22,7 @@ hidden: false
 
 {% include youtube.html %}
 
-There are really five key things to think about when it comes to sprucing up your home’s appearance as it might be seen from the street curb:
+There are really five key things to think about when it comes to sprucing up your curb appeal:
 
 **1. Spruce up your landscaping.** Go through the front of the property and trim back any bushes or trees that need pruning. Put some nice, fresh, colorful flowers in the flowerbeds, and then add mulch or bark to any areas of exposed dirt to create a nice, crisp line between any concrete or grass and the flowerbed.&nbsp;
 
