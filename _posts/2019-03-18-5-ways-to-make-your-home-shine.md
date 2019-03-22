@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways to Make Your Home Shine
-date: 2019-03-18 17:54:23
+date: 2019-03-18 17:54:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/curb-appeal-youtube.jpg
-youtube_code: 7V5oAQB1nKw
+youtube_code: oMic3vFpWPk
 hidden: false
 ---
 
@@ -24,7 +24,7 @@ hidden: false
 
 There are really five key things to think about when it comes to sprucing up your curb appeal:
 
-**1. Spruce up your landscaping.** Go through the front of the property and trim back any bushes or trees that need pruning. Put some nice, fresh, colorful flowers in the flowerbeds, and then add mulch or bark to any areas of exposed dirt to create a nice, crisp line between any concrete or grass and the flowerbed.&nbsp;
+**1. Spruce up your landscaping.** Go through the front of the property and trim back any bushes or trees that need pruning. Put some nice, fresh, colorful flowers in the flowerbeds, and then add mulch or bark to any areas of exposed dirt to create a nice, crisp line between any concrete or grass and the flowerbed. 
 
 **2. Pressure-wash the exterior of the home.** If you don’t have a pressure washer, there is the option of renting one or else borrowing one from the Brett Jennings Real Estate Experts—we do allow clients and potential clients to use it, so feel free to ask.
 
