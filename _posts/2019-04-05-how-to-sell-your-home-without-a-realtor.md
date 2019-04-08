@@ -28,7 +28,7 @@ Since we’re real estate professionals ourselves, you may be wondering why we�
 
 **3. Retain counsel for help with the paperwork.** A good real estate attorney will help you with contracts and disclosures. There are a number of legally required disclosures in California, and if you miss any, you’re putting yourself at risk.
 
-**4. Have good negotiation skills.** Once the offers come in on your home, you want to be able to negotiating with the buyers. If your negotiating skills aren’t so great, you can always lean on your real estate attorney to help out.
+**4. Have good negotiation skills.** Once the offers come in on your home, you want to be able to negotiate with the buyers. If your negotiating skills aren’t so great, you can always lean on your real estate attorney to help out.
 
 {% include pullquote.html %}
 
