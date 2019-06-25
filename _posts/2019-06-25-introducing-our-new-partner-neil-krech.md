@@ -37,3 +37,8 @@ If you’re thinking of buying a home, **[click here](https://neil.siliconvalley
 If you’ve considered listing your home for sale, **[click here](https://neil.siliconvalleyrealestatesearch.com/home-valuation/){: target="_blank"}**, where you’ll get an instant estimate of your home’s market value. From here on out, Neil is going to use his considerable skill set to help us fine-tune our home value estimates so that you can be absolutely sure of what your home is worth.
 
 And as always, if you have any questions or are in need of any type of real estate information from anywhere in the country, please feel free to reach out to us. We’ve got you covered\!
+
+<div class="center">
+<a href="https://neil.siliconvalleyrealestatesearch.com/" target="_blank"><img src="/uploads/hs.png" class="photo-cta" /></a>
+<a href="https://neil.siliconvalleyrealestatesearch.com/home-valuation/" target="_blank"><img src="/uploads/hv.png" class="photo-cta" /></a>
+</div>
