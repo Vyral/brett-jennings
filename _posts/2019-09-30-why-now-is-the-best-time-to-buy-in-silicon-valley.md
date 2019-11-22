@@ -1,13 +1,13 @@
 ---
 layout: post
-title: When Is the Best Time to Buy a Home in Silicon Valley?
+title: Why NOW is the Best Time to Buy in Silicon Valley
 date: 2019-09-30 00:00:00
 tags:
 excerpt: >-
   There are a few reasons why now is a great time to buy property in our Silicon
   Valley market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/When+Is+the+Best+Time+to+Buy+a+Home+in+Silicon+Valley_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2019/November/Why+NOW+is+the+Best+Time+to+Buy+in+Silicon+Valley.mp4
 pullquote: Our interest rates are currently very low
 enclosure_type: video/mp4
 enclosure_time:
