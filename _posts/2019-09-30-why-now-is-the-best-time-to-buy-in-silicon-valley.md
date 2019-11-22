@@ -12,7 +12,7 @@ pullquote: Our interest rates are currently very low
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/now-is-the-best-time-to-buy-youtube.jpg
+youtube_alternate_image: /uploads/now-is-the-best-time-to-buy-youtube-02.jpg
 youtube_code: 1liNZ95rkqc
 hidden: false
 ---
