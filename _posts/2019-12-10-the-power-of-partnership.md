@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Power of Partnership2
-date: 2019-12-10 22:17:46
+title: The Power of Partnership
+date: 2019-12-10 22:17:00
 tags:
   - Real Estate
 excerpt: >-
