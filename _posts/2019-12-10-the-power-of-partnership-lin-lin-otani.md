@@ -17,7 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennings-youtube-1.jpg
 youtube_code: Wobnna32z3E
-hidden: false
+hidden: true
 ---
 
 {% include youtube.html %}
