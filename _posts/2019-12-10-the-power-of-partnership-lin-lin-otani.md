@@ -28,7 +28,7 @@ Why did our new partner Lin-Lin Otani decide to join Real Estate Experts? We’l
 
 {% include pullquote.html %}
 
-In case you didn’t know, **in just seven short years, Lin Lin has elevated herself to one of the top 5% of all agents throughout Silicon Valley.** I founded Real Estate Experts to help exceptional agents like Lin-Lin elevate and grow their business without sacrificing the level of service they provide. Through best-in-class technology, amazing client support, and expert-level negotiation, we create award-winning results.&nbsp;
+In case you didn’t know, **in just seven short years, Lin Lin has elevated herself to the top 5% of all agents throughout Silicon Valley.** I founded Real Estate Experts to help exceptional agents like Lin-Lin elevate and grow their business without sacrificing the level of service they provide. Through best-in-class technology, amazing client support, and expert-level negotiation, we create award-winning results.&nbsp;
 
 “Everyone has a story to tell,” Lin-Lin says. “I would like to be a part of your success story in your home selling and/or buying process.”
 
