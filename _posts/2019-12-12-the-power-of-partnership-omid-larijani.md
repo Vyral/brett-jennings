@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Power of Partnership: Omid Larijani'
-date: 2019-12-12 18:02:53
+date: 2019-12-12 18:02:00
 tags:
   - Real Estate
 excerpt: We’re announcing our new partnership with Brett Jennings!
@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/partnership-with-omid-youtube.jpg
 youtube_code: qB1br2pLjSE
-hidden: false
+hidden: true
 ---
 
 {% include youtube.html %}
