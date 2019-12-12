@@ -8,7 +8,7 @@ excerpt: >-
   Our newest partner, Lin-Lin Otani, stopped by today to say why she joined our
   team.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2019/December/The+Power+of+Partnership.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2019/December/The+Power+of+Partnership%3A+Lin-Lin+Otani.mp4
 pullquote: >-
   Through best-in-class technology, amazing client support, and expert-level
   negotiation, we create award-winning results.
