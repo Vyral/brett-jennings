@@ -5,10 +5,10 @@ date: 2019-12-10 22:17:00
 tags:
   - Real Estate
 excerpt: >-
-  Our newest partner, Lin-Lin Otani, stopped by today to say why she joined our
-  team.
+  Our newest partner, Lin-Lin Tsou-Otani, stopped by today to say why she joined
+  our team.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2019/December/The+Power+of+Partnership%3A+Lin-Lin+Otani.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2019/December/The+Power+of+Partnership-+Lin-Lin+Tsou-Otani.mp4
 pullquote: >-
   Through best-in-class technology, amazing client support, and expert-level
   negotiation, we create award-winning results.
@@ -22,7 +22,7 @@ hidden: true
 
 {% include youtube.html %}
 
-Why did our new partner Lin-Lin Otani decide to join Real Estate Experts? We’ll let her explain it.&nbsp;
+Why did our new partner Lin-Lin Tsou-Otani decide to join Real Estate Experts? We’ll let her explain it.&nbsp;
 
 “After closing over $114 million in home sales, I have discovered that it was crucial to offer top-notch service to my clients without restrictions. In this bifurcated market, it was important to identify a team with prudent success strategies for getting the best results for their clients. After much consideration and offers to join top teams in the area, I’ve selected the Real Estate Experts due to their client care team being in the top 3% under Bret Jennings’ amazing guidance.”
 
