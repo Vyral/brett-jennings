@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Power of Partnership: Lin-Lin Otani'
+title: 'The Power of Partnership: Lin-Lin Tsou-Otani'
 date: 2019-12-10 22:17:00
 tags:
   - Real Estate
