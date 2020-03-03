@@ -36,7 +36,7 @@ What’s driving this surge in Silicon Valley real estate? **There are three rea
 
 **So what does this mean for buyers and sellers?**
 
-For buyers, the last time we saw these conditions was the beginning of 2017 when we saw a huge surge in prices. Given that, **home prices will likely rise, and interest rates aren’t likely to go any lower than they already have.**
+For buyers, the last time we saw these conditions was the beginning of 2017 when we saw a huge surge in prices. **Home prices will likely rise and interest rates aren’t likely to go any lower than they already have.**
 
 For sellers, remember that we’re coming up on an election year. Typically in real estate, once we hit the primaries in the summertime, buyers and sellers will take a step back and see who is going to come into power and what that will mean for taxes, interest rates, and so on. During our last election in 2015, we saw a slowdown in the market as well, so **if you’re thinking of selling, you’ll want to take advantage of the current momentum of our spring market.**
 
