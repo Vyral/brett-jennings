@@ -80,7 +80,9 @@ A similar trend can be noticed for the term “Buy a Home”
 
 ![](/uploads/6.png){: width="100%" height="100%"}
 
-“Buy a Home” Google Search TrendsAnd when we look at another leading indicator of Buyer demand, the&nbsp;[number of Showing Requests](https://www.showingtime.com/impact-of-coronavirus/){: target="_blank"}, we see that number of buyers requesting property tours has already reached last years numbers even with the challenges that come with shelter in place.&nbsp;
+“Buy a Home” Google Search Trends
+
+When we look at another leading indicator of Buyer demand, the&nbsp;[number of Showing Requests](https://www.showingtime.com/impact-of-coronavirus/){: target="_blank"}, we see that number of buyers requesting property tours has already reached last years numbers even with the challenges that come with shelter in place.&nbsp;
 
 ![](/uploads/7.png){: width="100%" height="100%"}
 
@@ -91,3 +93,5 @@ Given the recession can be deeper than the 2008 crisis, a small drop in prices i
 However, given the tight inventory levels, solid demand from the buyers, and the lowest mortgage rates in history – don’t be surprised if the current trend of rising median home prices continues through the rest of the year.
 
 In any case, it seems almost certain that 2021 should see robust growth in home prices once the pandemic subsides and the economy bounces back to near normal.
+
+If you would like to understand how these market dynamics might affect your specifc plans to buy or sell during COVID-19, register for one of our free workshops on "How to Safely Buy or Sell in COVID-19". On this Zoom session we will go into more detail about the market and how you can safely buy or sell during this challenging but opportune time.&nbsp;
