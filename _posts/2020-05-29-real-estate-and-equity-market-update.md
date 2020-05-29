@@ -20,7 +20,7 @@ The National Association of Realtor’s (NAR)&nbsp;[existing home sales report f
 
 Even a more recent data (for the week ending May 15, 2020) from Altos Research shows that the Median Sales Price is still increasing.
 
-![](/uploads/1.png){: width="1024" height="655"}
+![](/uploads/1.png){: width="100%" height="100%"}
 
 This, when 38 million Americans have lost their jobs and the unemployment rate is at the highest levels since the Great Depression of 1933, mostly due to Covid-19 pandemic (see chart below).
 
