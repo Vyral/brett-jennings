@@ -24,7 +24,7 @@ Even a more recent data (for the week ending May 15, 2020) from Altos Research s
 
 This, when 38 million Americans have lost their jobs and the unemployment rate is at the highest levels since the Great Depression of 1933, mostly due to Covid-19 pandemic (see chart below).
 
-![](/uploads/2.png){: width="1024" height="547"}
+![](/uploads/2.png){: width="100%" height="100%"}
 
 It seems that all the prediction of doom and gloom for the real estate prices are yet to materialize.&nbsp;
 
@@ -48,7 +48,7 @@ Barry Habib, a two-time winner of the Zillow Pulsenomics Crystal Ball Award and 
 
 As we can see below, only twice—in the last 2 decades, only in 1990 and 2008—did home prices come down during the recession, and in 1990 it was by less than a percent. During the other three, prices actually went up.
 
-![](/uploads/3.png){: width="800" height="784"}
+![](/uploads/3.png){: width="100%" height="100%"}
 
 #### Will there be a Foreclosure crisis?
 
@@ -58,7 +58,7 @@ Things are very different right now. To begin with,&nbsp;[nearly 40% of homeowne
 
 And for homeowners who currently have a mortgage, the equity in their homes has reached the highest level according to Black Knight (see the chart below). Here in Silicon Valley 78% of homeowners have at least 50% equity in their homes.&nbsp;
 
-![](/uploads/4.png){: width="813" height="486"}
+![](/uploads/4.png){: width="100%" height="100%"}
 
 Finally, the Federal Housing Finance Agency (FHFA) has placed a moratorium on foreclosures allowing the homeowners who are impacted by unemployment or underemployment due to Covid-19 to file for&nbsp;[Forbearance](https://www.mortgageblog.com/how-does-the-mortgage-payment-forbearance-plan-work/){: target="_blank"}&nbsp;instead.&nbsp;
 
@@ -72,17 +72,17 @@ Look at some Google Trends that shows how many people are searching for a term a
 
 The chart below shows the trend for the term “Homes for Sale Near me”
 
-![](/uploads/5.png){: width="1024" height="284"}
+![](/uploads/5.png){: width="100%" height="100%"}
 
 “Homes for Sale Near me” Google Search Trends
 
 A similar trend can be noticed for the term “Buy a Home”
 
-![](/uploads/6.png){: width="1024" height="284"}
+![](/uploads/6.png){: width="100%" height="100%"}
 
 “Buy a Home” Google Search TrendsAnd when we look at another leading indicator of Buyer demand, the&nbsp;[number of Showing Requests](https://www.showingtime.com/impact-of-coronavirus/){: target="_blank"}, we see that number of buyers requesting property tours has already reached last years numbers even with the challenges that come with shelter in place.&nbsp;
 
-![](/uploads/7.png){: width="2120" height="910"}
+![](/uploads/7.png){: width="100%" height="100%"}
 
 #### What’s in store for the future?
 
