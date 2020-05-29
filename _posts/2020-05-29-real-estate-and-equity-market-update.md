@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Real Estate and Equity Market Update
-date: 2020-05-29 16:17:27
+date: 2020-05-29 16:17:00
 tags:
   - Market Update
   - Real Estate
@@ -19,6 +19,8 @@ hidden: false
 The National Association of Realtor’s (NAR)&nbsp;[existing home sales report for April 2020](https://www.nar.realtor/newsroom/existing-home-sales-wane-17-8-in-april){: target="_blank"}&nbsp;reported that the Median Sales Price rose a staggering 7.4% year-on-year. April’s increase marks 98 straight months of year-on-year increase.
 
 Even a more recent data (for the week ending May 15, 2020) from Altos Research shows that the Median Sales Price is still increasing.
+
+![](/uploads/1.png){: width="1024" height="655"}
 
 This, when 38 million Americans have lost their jobs and the unemployment rate is at the highest levels since the Great Depression of 1933, mostly due to Covid-19 pandemic (see chart below).
 
