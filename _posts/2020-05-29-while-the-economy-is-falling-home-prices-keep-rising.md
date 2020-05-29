@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Real Estate and Equity Market Update
+title: 'While the Economy is Falling, Home Prices Keep Rising'
 date: 2020-05-29 16:17:00
 tags:
   - Market Update
   - Real Estate
-excerpt: 'While the Economy is Falling, Home Prices Keep Rising. Here’s why.'
+excerpt: An in-depth overview of the market.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -95,3 +95,7 @@ However, given the tight inventory levels, solid demand from the buyers, and the
 In any case, it seems almost certain that 2021 should see robust growth in home prices once the pandemic subsides and the economy bounces back to near normal.
 
 If you would like to understand how these market dynamics might affect your specifc plans to buy or sell during COVID-19, register for one of our free workshops on "How to Safely Buy or Sell in COVID-19". On this Zoom session we will go into more detail about the market and how you can safely buy or sell during this challenging but opportune time.&nbsp;
+
+→&nbsp;[Register for our Home Seller Workshop](https://www.eventbrite.com/e/selling-safely-in-covid-19-workshop-tickets-104267274224){: target="_blank"}
+
+→&nbsp;[Register for our Homebuyer Workshop](https://www.eventbrite.com/e/buying-safely-in-covid-19-workshop-tickets-104679104018){: target="_blank"}
