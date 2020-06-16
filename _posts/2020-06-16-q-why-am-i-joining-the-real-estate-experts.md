@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Am I Joining the Real Estate Experts?'
-date: 2020-06-16 20:33:25
+date: 2020-06-16 20:33:00
 tags:
   - Real Estate
 excerpt: I’m partnering with the Real Estate Experts to take my business further.
@@ -12,7 +12,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/aiden-youtube.jpg
 youtube_code: 9KzBD0g0K2k
-hidden: false
+hidden: true
 ---
 
 {% include youtube.html %}
