@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Wish You a Bright Holiday Season
-date: 2020-12-14 22:57:16
+date: 2020-12-14 22:57:00
 tags:
   - Real Estate
 excerpt: Thank you for making our 2020 great; have a marvelous holiday season!
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/holiday-2020-yt.jpg
-youtube_code: NINGPfe_UsA
+youtube_code: br0hHFTqvNg
 hidden: false
 ---
 
