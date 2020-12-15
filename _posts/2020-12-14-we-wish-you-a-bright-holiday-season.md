@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/holiday-2020-yt.jpg
+youtube_alternate_image: /uploads/holiday-2020-yt-1.jpg
 youtube_code: br0hHFTqvNg
 hidden: false
 ---
