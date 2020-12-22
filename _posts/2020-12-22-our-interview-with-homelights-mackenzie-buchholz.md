@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Our Interview with HomeLight’s Mackenzie Buchholz
-date: 2020-12-22 21:33:46
+date: 2020-12-22 21:33:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Mackenzie Buchholz joins me to discuss HomeLight’s fantastic Trade-In program.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Our+Interview+with+HomeLight%E2%80%99s+Mackenzie+Buchholz.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
