@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/homelight-interview-yt.jpg
+youtube_alternate_image: /uploads/homelight-interview-yt-1.jpg
 youtube_code: EL9600FN5o4
 hidden: false
 ---
