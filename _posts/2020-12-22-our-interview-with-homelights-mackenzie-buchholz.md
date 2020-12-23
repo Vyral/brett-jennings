@@ -19,9 +19,9 @@ hidden: false
 
 {% include youtube.html %}
 
-Working from home is a trend that surged in 2020 due to the pandemic, and consequently, many people are now seeking more space in their homes. A survey from Forbes magazine indicated that 60% of American workers would prefer to work from home if their employer would allow them to do so permanently. Not only that, but the number of people who are moving is increasing at just about every price point in every market across the country.&nbsp;
+Working from home is a trend that surged in 2020 due to the pandemic, and consequently, many people are now seeking more space in their homes. A survey from Forbes magazine indicated that 60% of American workers would prefer to work from home if their employer would allow them to do so permanently. The number of people who are moving is increasing at just about every price point in every market across the country.&nbsp;
 
-I had the good fortune of catching up with Mackenzie Buchholz from HomeLight, Inc. to talk about this work-from-home trend, the challenges that homebuyers and sellers face in this COVID environment, and how companies like HomeLight are making moving simpler.
+I had the good fortune of catching up with Mackenzie Buchholz from HomeLight, Inc. to talk about this work-from-home trend, the challenges that homebuyers and sellers face in this COVID environment and how companies like HomeLight are making moving simpler.
 
 **Feel free to listen to our conversation in the video above, or use the timestamps below to navigate the discussion at your leisure:**
 
@@ -39,4 +39,4 @@ I had the good fortune of catching up with Mackenzie Buchholz from HomeLight, In
 
 10:33—Wrapping up our conversation
 
-We’re really grateful for our partnership with HomeLight, which allows us to provide this opportunity for our clients to receive a much better outcome. If you’d like to learn more about the HomeLight Trade-In solution, visit [www.MakeMovingSimple.com](http://www.makemovingsimple.com). For any real estate questions, don’t hesitate to reach out to your Real Estate Experts.
+We’re really grateful for our partnership with HomeLight, which allows us to provide this opportunity for our clients to receive a much better outcome. If you’d like to learn more about the HomeLight Trade-In solution, visit [www.MakingMovingSimple.com](http://www.makingmovingsimple.com){: target="_blank" rel="noopener"}. For any real estate questions, don’t hesitate to reach out to your Real Estate Experts.
