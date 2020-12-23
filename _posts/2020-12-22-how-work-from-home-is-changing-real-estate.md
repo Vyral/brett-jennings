@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Interview with HomeLight’s Mackenzie Buchholz
+title: How Work From Home Is Changing Real Estate
 date: 2020-12-22 21:33:00
 tags:
   - Home Buyer Tips
