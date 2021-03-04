@@ -12,7 +12,7 @@ pullquote: If you want to get a great deal on a home, now is the best time to ac
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/homelight-interview-yt-1.jpg
+youtube_alternate_image: /uploads/update-and-forecast-yt.jpg
 youtube_code: gAXjyZJ-Nok
 hidden: false
 ---
