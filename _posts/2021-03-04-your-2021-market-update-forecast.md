@@ -43,3 +43,4 @@ Real estate is driven by supply and demand, and it’s tempered by interest rate
 
 So what’s our official forecast for the 2021 market? We expect home prices to rise by 13.5%. Inventory will remain low due to the work-from-home demand, and interest rates will rise as the economy recovers. Rates have already begun to tick up a little bit. But that doesn’t mean that homebuyers should wait to make a purchase; rising rates will cause the market to slow down, and higher rates mean bigger mortgage payments. If you want to get a great deal on a home, now is the best time to act. We’ve faced four market corrections in the last 40 years, and every one of them occurred when homes became unaffordable in the market.
 
+If you have any questions about the market or about buying and selling homes, don’t hesitate to reach out to your Real Estate Experts. We’d be happy to help you.
