@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 5 Ways to Win a Multiple-Offer Situation
-date: 2021-05-18 20:04:52
+date: 2021-05-18 20:04:00
 tags:
   - Home Buyer Tips
 excerpt: Here are five ways to win in a multiple-offer situation.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/5+Ways+to+Win+a+Multiple-Offer+Situation.mp4
 pullquote: You’d be amazed at how effective writing a letter to the seller is.
 enclosure_type: video/mp4
 enclosure_time:
