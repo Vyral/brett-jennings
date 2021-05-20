@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-tips-yt.jpg
-youtube_code: 3R1NWiae4bA
+youtube_code: vTqxcu7_4fw
 hidden: false
 ---
 {% include youtube.html %}
