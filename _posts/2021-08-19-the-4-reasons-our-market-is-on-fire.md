@@ -34,6 +34,6 @@ All of this combines to give us a flaming hot real estate market. However, it is
 
 **• &nbsp;****Prices will rise, but more slowly.** Our prices have been rising rapidly. We expect increases still, but just not as quickly as these last few years.
 
-**• Interest rates will rise.** We are starting to see signs of inflation, and the only option the government has to protect us from that is increasing interest rates. So we expect those to climb over the next few years.
+**•&nbsp; Interest rates will rise.** We are starting to see signs of inflation, and the only option the government has to protect us from that is increasing interest rates. So we expect those to climb over the next few years.
 
 So if you’re thinking about buying, now is the time. If you’re thinking about selling, prices are at an all time high, and we don't know how long that will last. At the end of the day, whether buying or selling, the time is right in real estate. If you’re wondering if the time is right for you, reach out to us. We’ll gladly do a consultation and help you make a plan. We look forward to hearing from you soon.
