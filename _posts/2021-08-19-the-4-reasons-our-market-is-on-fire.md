@@ -32,7 +32,7 @@ Prices are up 22% year-over-year, and that has a lot of people asking what is dr
 
 All of this combines to give us a flaming hot real estate market. However, it is not sustainable at this level. So here’s our prediction going forward:
 
-**•****Prices will rise, but more slowly.** Our prices have been rising rapidly. We expect increases still, but just not as quickly as these last few years.
+**• &nbsp;****Prices will rise, but more slowly.** Our prices have been rising rapidly. We expect increases still, but just not as quickly as these last few years.
 
 **• Interest rates will rise.** We are starting to see signs of inflation, and the only option the government has to protect us from that is increasing interest rates. So we expect those to climb over the next few years.
 
