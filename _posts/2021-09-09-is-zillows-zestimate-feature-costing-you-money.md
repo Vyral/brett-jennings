@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Zillow’s Zestimate Feature Costing You Money?
-date: 2019-02-25 22:37:00
+date: 2021-09-09 10:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -20,14 +20,13 @@ youtube_alternate_image: /uploads/zestimate-youtube-02.jpg
 youtube_code: 7q9ckXrmY8Y
 hidden: false
 ---
-
 {% include youtube.html %}
 
 The big questions for today are: What is a Zestimate, how accurate is it, and how can you make sure that it’s not costing you money?
 
 **What is a Zestimate?** Well, the Zestimate is just an automated valuation model that’s derived from an algorithm that incorporates basic, public information about your home and other homes in the area to come up with an estimated value.
 
-**Is the Zestimate accurate?** Well, Zillow’s own website admits that the Zestimate can be anywhere from 10% to 20% off the market value of a home. It really only is meant to be a starting point. 
+**Is the Zestimate accurate?** Well, Zillow’s own website admits that the Zestimate can be anywhere from 10% to 20% off the market value of a home. It really only is meant to be a starting point.&nbsp;
 
 **What affects the value of a Zestimate?** The algorithm used to value a home is based on the specifics of your home, like your bed and bath count, the market trends in your area, or how much the aggregate value of your zip code has increased; and it also looks at recent or past sales. If you’ve sold your home recently for below market value, your home’s Zestimate will be a little undervalued until a certain amount of time has passed.
 
@@ -47,4 +46,4 @@ If you want a more accurate estimate of your home’s value, I strongly advise y
 
 In that case, give the Brett Jennings Group a call. We can do a free assessment of your property, and while we’re there, we can also give you some tips and ideas on what you can do to increase the value of your home with some simple upgrades and fix-ups before you bring it to market.
 
-If you’d like more details on increasing your home’s value, check out one of our other video blogs called “[5 Tips to Boost Your Home’s Value.](https://siliconvalleyrealestatejournal.com/silicon-valley-real-estate-home.html){: target="_blank"}” It is one of our most popular blogs. We hope to hear from you soon!
+If you’d like more details on increasing your home’s value, check out one of our other video blogs called “[5 Tips to Boost Your Home’s Value.](https://siliconvalleyrealestatejournal.com/silicon-valley-real-estate-home.html){: target="_blank"}” It is one of our most popular blogs. We hope to hear from you soon\!
