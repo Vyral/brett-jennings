@@ -12,8 +12,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/tahoe-yt.jpeg
+youtube_code: Q91jmd5XHEQ
 hidden: false
 ---
 {% include youtube.html %}
