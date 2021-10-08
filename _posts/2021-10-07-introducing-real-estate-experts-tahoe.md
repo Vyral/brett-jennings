@@ -18,9 +18,13 @@ hidden: false
 ---
 {% include youtube.html %}
 
+**[Search for Lake Tahoe Homes](https://www.tahoerealestatesearch.com/){: target="_blank" rel="noopener"}**
+
+[**Schedule a Discovery Call**](http://brettscalendar.com/){: target="_blank" rel="noopener"}
+
 If you've lived in the Bay Area for any length of time, you've likely had the opportunity to visit Lake Tahoe. It’s not just a fantastic place to visit, it's an awesome place to own real estate. It’s for that reason that we're excited to announce the official launch of Real Estate Experts Tahoe.
 
-If you've dreamed of owning a vacation home, second home, or investment property here in Tahoe, we're here to help. **If you're ready to start exploring, [visit](__notset__)**[**tahoerealestatesearch.com**](__notset__)**.** There you’ll get instant access to all the current listings in Tahoe, Truckee, and the surrounding areas.
+If you've dreamed of owning a vacation home, second home, or investment property here in Tahoe, we're here to help. **If you're ready to start exploring, visit&nbsp;**[**tahoerealestatesearch.com**](https://www.tahoerealestatesearch.com/)**.** There you’ll get instant access to all the current listings in Tahoe, Truckee, and the surrounding areas.
 
 {% include pullquote.html %}
 
