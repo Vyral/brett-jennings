@@ -18,9 +18,9 @@ hidden: false
 ---
 {% include youtube.html %}
 
-<center>**[Search for Lake Tahoe Homes](https://www.tahoerealestatesearch.com/){: target="_blank" rel="noopener"}**</center>
+**[Search for Lake Tahoe Homes](https://www.tahoerealestatesearch.com/){: target="_blank" rel="noopener"}**
 
-<center>[**Schedule a Discovery Call**](http://brettscalendar.com/){: target="_blank" rel="noopener"}</center>
+[**Schedule a Discovery Call**](http://brettscalendar.com/){: target="_blank" rel="noopener"}
 
 If you've lived in the Bay Area for any length of time, you've likely had the opportunity to visit Lake Tahoe. It’s not just a fantastic place to visit, it's an awesome place to own real estate. It’s for that reason that we're excited to announce the official launch of Real Estate Experts Tahoe.
 
