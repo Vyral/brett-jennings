@@ -10,8 +10,6 @@ description: >-
   Agents.
 show_custom_links: true
 custom_links:
-  - title: 5 Star Vendors List
-    url: /vendors/
   - title: Testimonials
     url: /testimonials/
 show_custom_links_new_tab: true
