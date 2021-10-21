@@ -1,12 +1,12 @@
 audit_header: false
-title: Silicon Valley Real Estate Video Blog with Brett Jennings
+title: Bay Area Real Estate Video Blog with Brett Jennings
 description: >-
   Our mission at Brett Jennings Real Estate Experts is to be your best resource
-  for Silicon Valley real estate advice. Whether you are a buyer, seller, or
+  for the Bay Area real estate advice. Whether you are a buyer, seller, or
   investor, our team of professionals can answer any questions you might have
   about real estate. If you are looking to buy or sell a home, you can get all
   the information and the latest updates, tips, and tricks from The Brett
-  Jennings Real Estate Experts, your professional Silicon Valley Real Estate
+  Jennings Real Estate Experts, your professional Bay Area Real Estate
   Agents.
 show_custom_links: true
 custom_links:
@@ -17,7 +17,7 @@ custom_links:
 show_custom_links_new_tab: true
 custom_links_new_tab:
   - title: About
-    url: 'http://www.thebrettjenningsteam.com/about-brett/'
+    url: 'https://www.therealexperts.com/members/brett-jennings/'
   - title: Our Team
     url: 'https://www.therealexperts.com/our-team/'
 client:
@@ -49,7 +49,7 @@ client:
     record-breaking prices in almost every neighborhood he sells in. His
     best-selling book, The New Rise in Real Estate, serves as a further resource
     for clients wanting to make the most of the current market.
-  market: Silicon Valley
+  market: Bay Area
   brand: Brett Jennings Real Estate Experts
   brokerage:
   address: '910 E Hamilton Ave, Suite 130 , Campbell Ca 95008'
@@ -62,26 +62,26 @@ client:
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: >-
-    http://www.siliconvalleyrealestatesearch.com/home-valuation/?utm_source=VYRAL&utm_campaign=Vyral+Emails+&utm_medium=referral
+    https://www.bayareahomesearch.com/home-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: >-
-    http://www.siliconvalleyrealestatesearch.com/?utm_source=BLOG&utm_campaign=Video+Blog&utm_medium=referral
+    https://www.bayareahomesearch.com/
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: What’s Your Silicon Valley Home Worth?
+    CTA_title: What’s Your Bay Area Home Worth?
     CTA_text: >-
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
     CTA_url: >-
-      http://www.siliconvalleyrealestatesearch.com/home-valuation/?utm_source=VYRAL&utm_campaign=Vyral+Emails+&utm_medium=referral
+      https://www.bayareahomesearch.com/home-valuation/
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: Looking for a Silicon Valley Home?
-    CTA_text2: Search the entire MLS for your Silicon Valley home.
+    CTA_title2: Looking for a Home?
+    CTA_text2: Search the entire MLS for your Bay Area home.
     CTA_link_text2: Search the MLS
     CTA_url2: >-
-      http://www.siliconvalleyrealestatesearch.com/?utm_source=BLOG&utm_campaign=Video+Blog&utm_medium=referral
+      https://www.bayareahomesearch.com/
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -108,7 +108,7 @@ socials:
   yelp_url: 'http://www.yelp.com/biz/brett-jennings-real-estate-experts-los-gatos'
   podcast_url:
 podcast:
-  title: Silicon Valley Real Estate Podcast with Brett Jennings
+  title: Bay Area Real Estate Podcast with Brett Jennings
   categories:
     - Education
   image: /img/podcast.jpg
@@ -131,7 +131,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 80
-  hero_text: Silicon Valley Real Estate Journal
+  hero_text: Bay Area Real Estate Journal
   hero_background_hex: '#11365d'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
