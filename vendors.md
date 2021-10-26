@@ -39,7 +39,7 @@ Below is our list of platinum vendors. All of these professionals are our servic
 
 <h4><a href="http://www.taxandestateplanners.com/" target="_blank">Estate Planning & Probate Law- The Dayton Law Firm</a></h4>
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Xj69PLWaR5k" width="560"></iframe>
+<!--<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Xj69PLWaR5k" width="560"></iframe>-->
 
 <p>The Dayton Law Firm is committed to delivering personalized attention and top quality estate plans because we know what’s at stake. . .
 <ul class="indent">
@@ -54,8 +54,6 @@ Below is our list of platinum vendors. All of these professionals are our servic
 <p>As a Certified Estate Planning Specialist, Richard Dayton is one of a select few of California attorneys who have achieved such distinction. You can be confident that he will create a comprehensive estate planning solution that you and your family can depend on. <a href="http://www.taxandestateplanners.com/" target="_blank">Find out more about how the Dayton Law Firm estate planning team can help you with your California estate planning needs.</a></p>
 
 <h4><a href="http://www.bayareabk.com/" target="_blank">Bankruptcy Law - Law Offices of W. Kirk Moore</a></h4>
-
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/BK-re3pDwaI" width="560"></iframe>
 
 <p>The Law Offices of W. Kirk Moore eliminates the burden of overwhelming debt and replaces it with an opportunity for you to start over on your terms. We do this while protecting your home, cars, personal assets and business. The choice to take a new path to your financial future is yours and we are here to make it possible.</p>
 
