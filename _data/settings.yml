@@ -12,6 +12,8 @@ show_custom_links: true
 custom_links:
   - title: Testimonials
     url: /testimonials/
+  - title: 5 Star Vendors
+    url: /vendors/    
 show_custom_links_new_tab: true
 custom_links_new_tab:
   - title: About
