@@ -5,7 +5,8 @@ date: 2022-01-10 22:28:49
 tags:
   - Market Update
 excerpt: Here are my predictions for what our market will look like in 2022.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2022/What+Will+2022%E2%80%99s+Market+Look+Like_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
