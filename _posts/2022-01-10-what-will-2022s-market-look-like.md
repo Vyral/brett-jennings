@@ -11,13 +11,13 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/market-forecast-yt.jpg
+youtube_alternate_image: /uploads/market-forecast-yt-1.jpg
 youtube_code: 3ElllQTsOq4
 hidden: false
 ---
 {% include youtube.html %}
 
-What’s the future of our real estate market? You may have heard some rumblings in the media that a crash is coming right around the corner, but is it true? Today I want to take a look at our local market and make some predictions about what the winter will bring. It’s been a cold and snowy winter so far; will our real estate market remain hot?&nbsp;
+What’s the future of our real estate market? You may have heard some rumblings in the media that a crash is coming right around the corner, but is it true? Today I want to take a look at our local market and make some predictions about what the winter will bring. It’s been a cold and snowy winter so far; will our real estate market remain hot?
 
 **You can listen to my full message in the video above, or you can skip to each topic using the timestamps provided:**
 
@@ -29,16 +29,16 @@ What’s the future of our real estate market? You may have heard some rumblings
 
 1:52 — The great reshuffling
 
-2:19 — Supply is as low as it’s ever been&nbsp;
+2:19 — Supply is as low as it’s ever been
 
-3:26 — Interest rates are historically low&nbsp;
+3:26 — Interest rates are historically low
 
-4:15 — The stock market is at an all-time high&nbsp;
+4:15 — The stock market is at an all-time high
 
 4:47 — 2022 forecast
 
 5:28 — How buyers can compete in a competitive market
 
-7:19 — Wrapping things up&nbsp;
+7:19 — Wrapping things up
 
 Hopefully, this update helped you understand where our market is heading. If you have any questions, feel free to schedule a free discovery call with my team. We’d love to help in any way we can\!
