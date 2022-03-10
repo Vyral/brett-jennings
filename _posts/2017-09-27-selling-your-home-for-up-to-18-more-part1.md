@@ -1,5 +1,5 @@
 ---
-youtube_code: wq1hxZJZ5Ys
+youtube_code: 6L0lpdeYZe8
 excerpt: >-
   How are we able to consistently sell homes for up to 18% over the market
   average? Here are the first two steps.
