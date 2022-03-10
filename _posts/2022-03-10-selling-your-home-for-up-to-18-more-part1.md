@@ -12,7 +12,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/sell-for-more-yt.jpeg
 layout: post
 title: Selling Your Home For Up To 18% More - Part 1 - Preparation
-date: 2017-09-27 13:47:00
+date: 2022-03-10 12:47:00
 author: Anonymous
 tags:
   - Home Seller Tips
