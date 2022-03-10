@@ -1,6 +1,8 @@
 ---
 youtube_code: wq1hxZJZ5Ys
-excerpt:
+excerpt: >-
+  How are we able to consistently sell homes for up to 18% over the market
+  average? Here are the first two steps.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/Videos/2017/Los+Gatos+Real+Estate+Agent-+How+To+Sell+Your+Home+For+More+Money+%2528Part+1%2529.mp4
 pullquote: THERE ARE FIVE MAIN AREAS WE FOCUS ON.
@@ -20,11 +22,7 @@ blogger_id: tag:blogger.com,1999:blog-6699554447557527118.post-37823058843148368
 blogger_orig_url: >-
   http://www.siliconvalleyrealestatejournal.com/2017/09/selling-your-home-for-up-to-18-more.html
 ---
-{% include youtube.html %} How are we able to consistently sell homes for up to 18% over the market average? Here are the first two steps.
-
-[Watch This Next: 5 home improvements to boost your home’s value](https://www.youtube.com/watch?v=hrIpn6hFdh0&amp;feature=youtu.be){: target="_blank"}
-
-<div class="post-cta">Considering Buying? <a target="_blank" href="http://www.siliconvalleyrealestatesearch.com/?utm_source=BLOG&amp;utm_campaign=Video+Blog&amp;utm_medium=referral">Click here for gateway access to MLS</a><br />Considering Selling? <a target="_blank" href="http://www.siliconvalleyrealestatesearch.com/home-valuation/?utm_source=VYRAL&amp;utm_campaign=Vyral+Emails+&amp;utm_medium=referral">Click here for a FREE Home Price Evaluation</a><br /><a target="_blank" href="https://www.siliconvalleyrealestatesearch.com/off-market-list/">Click here to access off-site properties</a></div>
+{% include youtube.html %}&nbsp;
 
 How can we sell your home for 18% more money on average? I know it sounds like a bold claim, but over the next few videos I’ll walk you through the process to show you exactly how we do it.
 
