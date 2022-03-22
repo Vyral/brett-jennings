@@ -33,3 +33,5 @@ Also, consider getting pre-approved as an all-cash buyer. Several boutique lende
 **5\. Hire an expert.** Don’t just hire an agent; hire an expert. 80% of properties are sold by 10% of agents. Those top agents have relationships with other Realtors, and those pre-existing relationships can make a big difference in getting your offer accepted.
 
 If you have any questions about these tips or real estate in general, feel free to call or email us. We’re ready to help you create a better life through real estate.
+
+<hr>
