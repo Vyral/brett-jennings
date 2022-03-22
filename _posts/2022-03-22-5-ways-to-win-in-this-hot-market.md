@@ -16,13 +16,15 @@ hidden: true
 ---
 {% include youtube.html %}
 
-{% include pullquote.html %}
+{% include excerpt.html %}
 
 With inventory at all-time lows and prices at all-time highs, buyers are facing fierce competition in this market. How can you win as a buyer in a super-competitive market like this one? Don’t get discouraged because there are five ways you can stand out in the crowd:
 
-**1\. Get pre-approved.** <i>You’ll want to get pre-approved for more than you might think.</i> With how prices are rising, the type of home you’re looking at online might cost $25,000 to $100,000 more by the time you start shopping.
+**1\. Get pre-approved.** *You’ll want to get pre-approved for more than you might think.* With how prices are rising, the type of home you’re looking at online might cost $25,000 to $100,000 more by the time you start shopping.
 
 Also, consider getting pre-approved as an all-cash buyer. Several boutique lenders can do this for you, and it’s more important than ever in our market. All-cash offers are three times more likely to be accepted than traditional offers. Sellers like the certainty that they provide.
+
+{% include pullquote.html %}
 
 **2\. Become a student of the market.** Look at what homes list for compared to what they end up selling for. Your Realtor can provide you with this information, but you’ll need to understand the sales-to-list price ratio. That will tell you how much you’ll have to offer on homes in your price range.
 
@@ -34,4 +36,4 @@ Also, consider getting pre-approved as an all-cash buyer. Several boutique lende
 
 If you have any questions about these tips or real estate in general, feel free to call or email us. We’re ready to help you create a better life through real estate.
 
-<hr>
+---
