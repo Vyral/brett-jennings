@@ -21,7 +21,7 @@ If you’re planning to sell your home in 2022 for top dollar, the time to list 
 
 {% include pullquote.html %}
 
-**1\. Demand is stronger than ever.** We can see where our demand is heading by looking at the number of showings homes are getting for both private showings and open houses. ShowingTime is a website that tracks the number of showings we’re seeing. As you can see on the graph at 0:40 in the video above, they show that demand is currently stronger than it was in 2021, which already had more demand than we’d seen in years.&nbsp;
+**1\. Demand is stronger than ever.** We can see where our demand is heading by looking at the number of showings homes are getting for both private showings and open houses. ShowingTime is a website that tracks the number of showings in our market. As you can see on the graph at 0:40 in the video above, they show that demand is currently stronger than it was in 2021, which already had more demand than we’d seen in years.&nbsp;
 
 **2\. Supply is very low.** Each month, Realtor.com publishes a graph (which you can see at 1:00 in the video) that shows the present inventory. Right now, we’re seeing the lowest inventory we’ve had for a long time.
 
