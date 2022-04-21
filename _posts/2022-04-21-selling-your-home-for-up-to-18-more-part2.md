@@ -9,7 +9,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/18--more-part-2-yt.jpeg
+youtube_alternate_image: /uploads/18--more-part-2-yt-1.jpeg
 layout: post
 title: Selling Your Home For Up To 18% More - Part 2 - Presentation
 date: 2022-04-21 10:14:00
@@ -22,7 +22,7 @@ blogger_id: tag:blogger.com,1999:blog-6699554447557527118.post-72291551342953977
 blogger_orig_url: >-
   http://www.siliconvalleyrealestatejournal.com/2018/01/selling-your-home-for-up-to-18-more.html
 ---
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
 
 Welcome back to part two of my series about how to sell your home for up to 18% more money. I know that sounds like a bold claim, but we’ll prove it’s possible by walking you through our process.
 
