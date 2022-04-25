@@ -24,7 +24,7 @@ blogger_orig_url: >-
 ---
 {% include youtube.html %}
 
-Welcome back to part two of my series about how to sell your home for up to 18% more money. I know that sounds like a bold claim, but we’ll prove it’s possible by walking you through our process.
+Welcome back to part two of my series about how to sell your home for up to 18% more money (if you missed part 1 you can [**view it here**](https://bayarearealestatejournal.com/selling-your-home-for-up-to-18-more-part1.html){: target="_blank" rel="noopener"}). I know that sounds like a bold claim, but we’ll prove it’s possible by walking you through our process.
 
 Last time, we talked about preparing the home for sale. Once it’s prepared, it’s now about presenting your home to the market. How do we do that?
 
