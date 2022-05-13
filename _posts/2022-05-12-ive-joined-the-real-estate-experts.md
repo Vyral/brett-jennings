@@ -3,7 +3,7 @@ layout: post
 title: I’ve Got News to Share
 date: 2022-05-12 19:00:06
 tags:
-excerpt: Here’s why I’m so excited to Join Brett and the Real Estate Experts.
+excerpt: Here’s why I’m so excited to Join Real Estate Experts.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
