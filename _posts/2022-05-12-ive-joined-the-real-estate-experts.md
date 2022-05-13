@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/ben-dodge-yt.jpeg
+youtube_alternate_image: /uploads/ben-dodge-yt-1.jpeg
 youtube_code: Gfw5pVUOfqs
 hidden: true
 ---
