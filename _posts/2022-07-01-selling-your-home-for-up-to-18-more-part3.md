@@ -1,5 +1,5 @@
 ---
-youtube_code: 69Sj4Znz84U
+youtube_code: 01srnAGB0Ok
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2018/Los+Gatos+Real+Estate+Agent-+How+to+sell+for+more+part+3.mp4
@@ -7,7 +7,7 @@ pullquote: PRICING IS AS MUCH OF AN ART AS IT IS A SCIENCE.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+youtube_alternate_image: /uploads/part-3-yt.jpeg
 layout: post
 title: How a Pre-Appraisal Can Net You Up To 18% More When Selling
 date: 2022-07-01 16:00:00
