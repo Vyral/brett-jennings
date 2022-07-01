@@ -1,31 +1,28 @@
 ---
 youtube_code: 69Sj4Znz84U
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2018/Los+Gatos+Real+Estate+Agent-+How+to+sell+for+more+part+3.mp4
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2018/Los+Gatos+Real+Estate+Agent-+How+to+sell+for+more+part+3.mp4
 pullquote: PRICING IS AS MUCH OF AN ART AS IT IS A SCIENCE.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: How a Pre-Appraisal Can Net You Up To 8% More When Selling
-date: '2018-03-21T09:00:00.000-07:00'
+title: How a Pre-Appraisal Can Net You Up To 18% More When Selling
+date: 2022-07-01 16:00:00
 author: Caitie Neal
 tags:
-- Home Seller Tips
+  - Home Seller Tips
 modified_time: '2018-04-10T11:22:17.270-07:00'
 thumbnail: https://i.ytimg.com/vi/69Sj4Znz84U/default.jpg
 blogger_id: tag:blogger.com,1999:blog-6699554447557527118.post-884319304880513652
-blogger_orig_url: http://www.siliconvalleyrealestatejournal.com/2018/03/selling-your-home-for-up-to-18-more.html
+blogger_orig_url: >-
+  http://www.siliconvalleyrealestatejournal.com/2018/03/selling-your-home-for-up-to-18-more.html
 ---
 {% include youtube.html %}
-We can sell your home for up to 18% more money. We’ll prove it to you.
 
-<div class="post-cta">
-Considering Buying? <a href="http://www.siliconvalleyrealestatesearch.com/?utm_source=BLOG&utm_campaign=Video+Blog&utm_medium=referral" target="_blank">Click here for gateway access to MLS</a><br>
-Considering Selling? <a href="http://www.siliconvalleyrealestatesearch.com/home-valuation/?utm_source=VYRAL&utm_campaign=Vyral+Emails+&utm_medium=referral" target="_blank">Click here for a FREE Home Price Evaluation</a><br>
-<a href="https://www.siliconvalleyrealestatesearch.com/off-market-list/" target="_blank">Click here to access off-site properties</a>
-</div>
+We can sell your home for up to 18% more money. We’ll prove it to you.
 
 How can you sell your home for up to 18% more money? It sounds like a bold claim, but I’ll prove to you that we can do it for you by walking you through the third part of our five-part process.
 
