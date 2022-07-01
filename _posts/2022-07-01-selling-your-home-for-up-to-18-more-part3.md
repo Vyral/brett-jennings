@@ -38,7 +38,7 @@ The agent said that it was worth about $1.35 million. We then got our appraiser 
 
 Then, we included a copy of the appraisal in the disclosure package and on the agent comments on the MLS. We set a deadline of 10 days, because one weekend might not be enough to maximize the exposure for buyers. **Also, by setting a deadline, we effectively forced buyers to compete.** We ended up with seven offers, ranging from about $1.35 million up to $1.43 million, which was $10,000 over our appraised value.
 
-We negotiated the top two offers against one another, eventually getting them up to $1.465 million. **We actually got $115,000, or 8% more, in the sale of this home by using an appraisal strategically.**
+We negotiated the top two offers against one another, eventually getting them up to $1.465 million. **We actually got $115,000, or 18% more, in the sale of this home by using an appraisal strategically.**
 
 The reason that this works is that when buyers are faced with competition in a low-inventory market like ours, they’ll ask their agents what they need to offer in order to get the house. The agent, in most instances, has a printout from the MLS showing home values in that neighborhood; it could be a $150,000 swing in our favor. It really becomes a conversation about what the buyers are comfortable offering.
 
