@@ -17,4 +17,4 @@ hidden: true
 
 {% include excerpt.html %}
 
-&nbsp;
+I have some exciting news today: I’ve joined Brett Jennings as part of Real Estate Experts\! They have fantastic name recognition, and I’m looking forward to growing with them personally and professionally. I like what I’ve done on my own, but I want to help more people, and this is the best way to do that without compromising. To learn more about why I’m joining Real Estate Experts, watch this short video.
