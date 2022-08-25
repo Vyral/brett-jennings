@@ -4,7 +4,8 @@ title: I’ve Joined Real Estate Experts!
 date: 2022-08-18 05:00:00
 tags:
 excerpt: Why I’ve joined with Real Estate Experts and how this will help me grow.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2022/I%E2%80%99ve+Joined+Real+Estate+Experts!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
