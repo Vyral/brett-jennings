@@ -4,14 +4,15 @@ title: Why I’m Working With Real Estate Experts
 date: 2022-09-20 05:00:00
 tags:
 excerpt: I’m collaborating with Real Estate Experts to take my service up a notch.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2022/Brett+Jennings_New+Agent+Intro_Christina+Morales.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/christina-yt.jpeg
 youtube_code: uW-YQ1ZKCOg
-hidden: true
+hidden: false
 ---
 {% include youtube.html %}
 
