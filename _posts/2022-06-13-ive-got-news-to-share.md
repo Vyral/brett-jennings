@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I've got news to share
+title: Ive got news to share
 date: 2022-06-13 00:00:00
 tags:
 excerpt:
