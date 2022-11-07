@@ -17,4 +17,4 @@ hidden: true
 
 {% include excerpt.html %}
 
-After seven years in real estate, with the last half in management, I am so excited to be back as an agent helping people again\! After looking hard for a place to hang my hat as an agent, I found a group of top producers who work collaboratively. I am proud to announce that I’m partnering with Brett Jennings of Real Estate Experts. Brett provides the systems and support I need to bring you the highest quality of service. To learn more about this exciting partnership, watch this short video.
+After seven years in real estate, with the last half in management, I am so excited to be back as an agent helping people again\! After looking hard for a place to hang my hat as an agent, I found a group of top producers who work collaboratively and I am proud to announce that I’m partnering with Brett Jennings of Real Estate Experts. Brett provides the systems and support I need to bring you the highest quality of service. To learn more about this exciting partnership, watch this short video.
