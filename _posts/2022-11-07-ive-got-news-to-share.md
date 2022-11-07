@@ -10,7 +10,6 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/julie-yt-3.jpg
-youtube_code: w6PpwgbJgU0
 hidden: true
 ---
 {% include youtube.html %}
