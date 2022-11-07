@@ -13,6 +13,7 @@ youtube_alternate_image: /uploads/julie-yt-2.jpg
 youtube_code: w6PpwgbJgU0
 hidden: true
 ---
+{% include youtube.html %}
 
 {% include excerpt.html %}
 
