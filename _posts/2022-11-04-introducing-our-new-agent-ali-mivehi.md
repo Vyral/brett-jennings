@@ -4,7 +4,8 @@ title: I've Got News to Share
 date: 2022-11-04 05:00:00
 tags:
 excerpt: I’m excited to announce a new and exciting partnership with Brett Jennings.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2022/I've+Got+News+to+Share.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
