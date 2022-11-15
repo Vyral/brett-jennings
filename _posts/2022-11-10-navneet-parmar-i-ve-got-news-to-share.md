@@ -16,3 +16,7 @@ hidden: true
 {% include youtube.html %}
 
 I have some exciting news to share with you. After being in real estate for 17 years, I was getting too comfortable in my business and I decided to shake things up. As I looked at many different real estate companies, one really stood out to me: Real Estate Experts. I met with Brad Jennings to see how we could take my business to the next level. To hear more about my transition and how Real Estate Experts can help you, watch this short video.
+
+**[Home Search](https://navneetparmar.bayareahomesearch.com/){: target="_blank" rel="noopener"}**
+
+**[Home Value](https://navneetparmar.bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**
