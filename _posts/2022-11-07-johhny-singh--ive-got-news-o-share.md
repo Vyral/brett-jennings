@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Johhny Singh | I''ve Got News to Share '
+title: 'Johnny Singh | I''ve Got News to Share '
 date: 2022-11-07 05:00:00
 tags:
 excerpt: How I’m growing my real estate career with this exciting new partnership.
