@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Update on the Silicon Valley Market
+title: Fall Real Estate Market Update
 date: 2022-11-17 05:00:00
 tags:
 excerpt: What buyers and sellers should know about today’s real estate market.
@@ -17,22 +17,22 @@ hidden: false
 
 {% include excerpt.html %}
 
-Have you been waiting for prices to come down and the right time to buy? Then I have a question for you: If you could purchase a home at 10% off peak prices and get a payment like we had in January, would you? If that’s what you've been waiting for, then this is the time for you. To help you digest all of this, I’m here today with a market update and an explanation of what the numbers mean for you.&nbsp;
+Have you been waiting for prices to come down and the right time to buy? Then I have a question for you: If you could purchase a home at 10% off peak prices and get a payment like we had in January, would you? If that’s what you've been waiting for, then this is the time for you. To help you digest all of this, I’m here today with a market update and an explanation of what the numbers mean for you.
 
-**You can hear the full update by watching the video above, or you can skip to individual topics using these timestamps:&nbsp;**
+**You can hear the full update by watching the video above, or you can skip to individual topics using these timestamps: **
 
-0:00 — Introduction&nbsp;
+0:00 — Introduction
 
-0:36 — Prices have come down 10%&nbsp;
+0:36 — Prices have come down 10%
 
-1:26 — Buyers are coming back&nbsp;
+1:26 — Buyers are coming back
 
-3:23 — Creative financing for buyers is back&nbsp;
+3:23 — Creative financing for buyers is back
 
-4:51 — Sellers are negotiating again&nbsp;
+4:51 — Sellers are negotiating again
 
-5:17 — When is the best time to buy or sell?&nbsp;
+5:17 — When is the best time to buy or sell?
 
-6:08 — Wrapping up&nbsp;
+6:08 — Wrapping up
 
 We really do believe that now is the time to act. If you need help buying or selling, or if you have any questions about this market update, don’t hesitate to reach out\! You can call or email anytime, and we’ll be here, ready to help you create a better life through real estate\!
