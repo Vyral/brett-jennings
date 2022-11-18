@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Update on the Silicone Valley Market
+title: An Update on the Silicon Valley Market
 date: 2022-11-17 05:00:00
 tags:
 excerpt: What buyers and sellers should know about today’s real estate market.
