@@ -18,3 +18,7 @@ hidden: true
 {% include excerpt.html %}
 
 After working in events and entertainment for 10 years, I am excited to announce that I am transitioning back into real estate\! I used to work in commercial real estate, but I missed working with people, so now I’ll be working in residential. I am partnering with a great organization to do this, and their support has been amazing. To hear about my journey and how I can help you, watch this short video.
+
+**[Home Search](https://bayareahomesearch.com/){: target="_blank" rel="noopener"}**
+
+**[Home Value](https://bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**
