@@ -11,7 +11,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/vino-yt.jpg
 youtube_code: AHfYObUUMX4
-hidden: true
+hidden: false
 ---
 {% include youtube.html %}
 
