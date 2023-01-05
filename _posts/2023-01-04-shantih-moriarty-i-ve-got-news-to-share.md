@@ -3,7 +3,9 @@ layout: post
 title: Shantih Moriarty | I've Got News to Share
 date: 2023-01-04 05:00:00
 tags:
-excerpt:
+excerpt: >-
+  A bright future lies ahead with my new partnership with the Brett Jennings
+  group.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
