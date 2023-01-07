@@ -19,6 +19,6 @@ hidden: true
 
 I have some exciting news\! I've been in the business for nine years and I'm at the point where I'm interested in getting to the next level. I did some research and found Real Estate Experts. They give me the team, resources, and tools to help me serve my clients at that next level. To hear more about them and my new partnership, watch this short video.
 
-[**Home Search**](https://www.bayareahomesearch.com/)
+[**Home Search**](https://rodrelledeandrade.bayareahomesearch.com/)
 
-**[Home Value](https://www.bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**<br>​​
+**[Home Value](https://rodrelledeandrade.bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**<br>​​
