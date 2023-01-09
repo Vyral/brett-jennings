@@ -19,6 +19,6 @@ hidden: true
 
 After 20 years of real estate experience, I decided it was time to make a major leap in my career—I joined the Brett Jennings group, and I can confidently say this has been an amazing move\! Their back support is flawless, and their execution is perfect. They have an ideal working environment, and I look forward to what the future holds, knowing I am in great hands\! To learn more about my new partnership, watch this short video.
 
-[**Home Search**](https://www.bayareahomesearch.com/)
+[**Home Search**](https://shantih.bayareahomesearch.com/)
 
-**[Home Value](https://www.bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**<br>​​
+**[Home Value](https://shantih.bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**<br>​​
