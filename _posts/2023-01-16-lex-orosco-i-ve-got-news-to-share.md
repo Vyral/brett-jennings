@@ -19,6 +19,6 @@ hidden: true
 
 Although I've reached great heights in real estate, I feel like I've hit a plateau. I'm someone who constantly wants to improve, and I want to be around a group with the same mindset. That’s why I've decided to join Brett Jennings and Real Estate Experts. This new partnership will benefit both my clients and me. To hear more information about Brett and his team, and what they can offer their partners, watch this short video.
 
-[**Home Search**](https://bayareahomesearch.com/)
+[**Home Search**](https://lex.bayareahomesearch.com/)
 
-**[Home Value](https://bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**<br>​​
+**[Home Value](https://lex.bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**<br>​​
