@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ennifer Guarnera | I've Got News to Share
+title: Jennifer Guarnera | I've Got News to Share
 date: 2023-01-28 05:00:00
 tags:
 excerpt: I’ve partnered with Brett Jennings from Real Estate Experts.
