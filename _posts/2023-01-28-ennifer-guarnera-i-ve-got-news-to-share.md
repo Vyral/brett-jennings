@@ -9,8 +9,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/lex-yt.jpg
-youtube_code: xJ3a0M0z5U4
+youtube_alternate_image: /uploads/jennifer-yt.jpg
+youtube_code: eMW0nrVxqYs
 hidden: true
 ---
 {% include youtube.html %}
