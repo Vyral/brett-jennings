@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/jennifer-yt.jpg
+youtube_alternate_image: /uploads/chase-yt.jpg
 youtube_code: f_zs3ZBKbtQ
 hidden: true
 ---
