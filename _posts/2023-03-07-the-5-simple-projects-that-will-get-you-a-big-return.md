@@ -10,7 +10,7 @@ pullquote: >-
   on investment.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/screenshot-2023-03-11-at-3-39-23-am.png
 youtube_code: T2dxNQoNRwM
 hidden: false
