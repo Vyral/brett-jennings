@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2-39.jpg
+youtube_alternate_image: /uploads/screenshot-2023-03-21-at-11-06-33-pm.png
 youtube_code: e3bXebY8ZvI
 hidden: false
 ---
@@ -21,7 +21,7 @@ Right now, the news everyone is talking about is the collapse of Silicon Valley 
 
 **You can listen to my full explanation in the video above or skip to each topic using the timestamps provided:**
 
-0:00 — Introduction&nbsp;
+0:00 — Introduction
 
 0:46 — A condensed history of Silicon Valley real estate
 
@@ -33,7 +33,7 @@ Right now, the news everyone is talking about is the collapse of Silicon Valley 
 
 4:32 — Our spring market forecast
 
-5:12 — Is now the right time to buy?&nbsp;
+5:12 — Is now the right time to buy?
 
 6:10 — Wrapping up
 
