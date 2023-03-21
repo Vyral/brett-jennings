@@ -17,7 +17,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-happened with this bank’s crash, and will it impact Silicon Valley real estate? In my latest market update, I’m discussing what this crash means for prices, where our market is heading, and what it all means for buyers and sellers.&nbsp;
+Right now, the news everyone is talking about is the collapse of Silicon Valley Bank. What happened with this bank’s crash, and will it impact Silicon Valley real estate? In my latest market update, I’m discussing what this crash means for prices, where our market is heading, and what it all means for buyers and sellers.
 
 **You can listen to my full explanation in the video above or skip to each topic using the timestamps provided:**
 
