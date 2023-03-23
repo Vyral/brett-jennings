@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You Need To Know About the Recent Bank Collapse
+title: What Does the Banking Crisis Mean for Real Estate?
 date: 2023-03-20 05:00:00
 tags:
 excerpt: Everything you need to know about the Silicon Valley Bank collapse.
