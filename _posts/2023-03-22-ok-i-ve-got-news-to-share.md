@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ok | I've Got News to Share
+title: Ok Denchukwu | I've Got News to Share
 date: 2023-03-22 05:00:00
 tags:
 excerpt: 'Why I decided to join the Brett Jennings Team and level up my career. '
