@@ -19,6 +19,6 @@ hidden: true
 
 Today I have a very exciting announcement for all of you! I’ve had great success in real estate over the past few years and am grateful for the many years in this business. However, it was time for me to take things to the next level. To do this, I decided to partner with Brett Jennings of Real Estate Experts. Now I will be able to offer you so many more amazing resources! To hear about this partnership and my exciting next step, watch this short video.
 
-[**Home Search**](https://bayareahomesearch.com/)
+[**Home Search**](https://kimberlydouglas.bayareahomesearch.com/){: target="_blank" rel="noopener"}
 
-**[Home Value](https://bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**<br>​​
+**[Home Value](https://kimberlydouglas.bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**<br>​​
