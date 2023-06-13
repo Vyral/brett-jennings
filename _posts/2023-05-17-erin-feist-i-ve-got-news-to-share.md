@@ -31,7 +31,7 @@ In the spirit of delivering value, I'm excited to offer some invaluable resource
 
 Alternatively, if you're contemplating selling your home, I encourage you to click on the Find My Home Value tab. While online estimators may provide a quick estimate, it's essential to remember that these figures often lack accuracy. To obtain a precise evaluation tailored to your specific property, it's always wise to consult a real estate professional like me. I'll be delighted to create a custom analysis that reflects the true value of your home.
 
-Moving forward, I'm excited to share regular market updates and inspiring success stories of the incredible families I have the pleasure of serving. Stay tuned for valuable insights that can help inform your real estate decisions and showcase the possibilities this dynamic market presents.
+Moving forward, I'm excited to share regular market updates and inspiring success stories of the incredible families I have the pleasure of serving. **Stay tuned for valuable insights that can help inform your real estate decisions and showcase the possibilities this dynamic market presents.**
 
 Should you have any questions regarding the real estate market or if you're contemplating buying or selling a property, please don't hesitate to reach out to me. I'm here to be your trusted resource throughout your real estate journey, offering guidance, expertise, and a personalized approach to meet your unique needs.
 
