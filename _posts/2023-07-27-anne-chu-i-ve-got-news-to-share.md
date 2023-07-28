@@ -21,7 +21,7 @@ I am thrilled to announce some exciting news! After dedicating several years to 
 
 Anne boasts over a decade of experience in project management and advertising, essential skills for achieving top-dollar sales in the real estate market. **She has a genuine passion for her work and is eager to serve more families without compromising the level of service and support she provides.**
 
-Here at the Real Experts, we have remarkable systems and support, which Anne can use through our partnership, and in light of this collaboration, we want to offer you valuable resources. If you’re interested in purchasing a home, you can access the MLS and explore all the properties available in Southern California by clicking the "Search for Home" tab on our website.
+Here at Real Estate Experts, we have remarkable systems and support, which Anne can use through our partnership, and in light of this collaboration, we want to offer you valuable resources. If you’re interested in purchasing a home, you can access the MLS and explore all the properties available in Southern California by clicking the "Search for Home" tab on our website.
 
 {% include pullquote.html %}
 
