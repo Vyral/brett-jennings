@@ -2,7 +2,6 @@
 layout: post
 title: Anne Chu | I've Got News to Share
 date: 2023-07-27 05:00:00
-tags:
 excerpt: All about my exciting new partnership with Real Estate Experts.
 enclosure:
 pullquote: In light of this collaboration, we want to offer you valuable resources.
@@ -33,4 +32,4 @@ If you’re interested in buying, selling, or investing in the L.A. area, know t
 
 [**Home Search**](https://bayareahomesearch.com/){: target="_blank" rel="noopener"}
 
-**[Home Value](https://bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**<br>​​
+**[Home Value](https://realestateexperts.hifello.com/lp/64d2de3104155600254d9aee){: target="_blank" rel="noopener"}**<br>​​
