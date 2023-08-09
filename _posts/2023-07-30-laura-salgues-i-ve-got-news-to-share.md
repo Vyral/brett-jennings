@@ -2,7 +2,6 @@
 layout: post
 title: Laura Salgues | I've Got News to Share
 date: 2023-07-30 05:00:00
-tags:
 excerpt: Here’s how Laura can help you achieve your home-buying dreams.
 enclosure:
 pullquote: >-
@@ -33,4 +32,4 @@ In the coming weeks and months, I will be sharing success stories of families I'
 
 [**Home Search**](https://bayareahomesearch.com/){: target="_blank" rel="noopener"}
 
-**[Home Value](https://bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**<br>​​
+**[Home Value](https://realestateexperts.hifello.com/lp/64d2dda011fdf40025f57515){: target="_blank" rel="noopener"}**<br>​​
