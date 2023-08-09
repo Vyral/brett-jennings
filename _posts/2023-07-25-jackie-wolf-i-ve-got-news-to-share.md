@@ -2,7 +2,6 @@
 layout: post
 title: Jackie Wolf | I've Got News to Share
 date: 2023-07-25 05:00:00
-tags:
 excerpt: All about my exciting new partnership with Real Estate Experts.
 enclosure:
 pullquote:
@@ -21,4 +20,4 @@ I'm thrilled to share some fantastic news with you! After 20 successful years in
 
 [**Home Search**](https://bayareahomesearch.com/){: target="_blank" rel="noopener"}
 
-**[Home Value](https://bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**<br>​​
+**[Home Value](https://realestateexperts.hifello.com/lp/64d2dce20ca23e0025cbab44){: target="_blank" rel="noopener"}**<br>​​
