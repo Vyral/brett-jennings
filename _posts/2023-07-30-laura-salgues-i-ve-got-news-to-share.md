@@ -30,6 +30,4 @@ In the coming weeks and months, I will be sharing success stories of families I'
 
 **I want to express my gratitude to all my previous clients for following me and entrusting me with their business once again.** I am grateful for the opportunity to be part of this amazing team and the incredible support they provide. Whether you're looking to buy, sell, or invest, I am here to help you achieve your real estate goals. Just call or email us with any questions.
 
-[**Home Search**](https://bayareahomesearch.com/){: target="_blank" rel="noopener"}
-
 **[Home Value](https://realestateexperts.hifello.com/lp/64d2dda011fdf40025f57515){: target="_blank" rel="noopener"}**<br>​​
