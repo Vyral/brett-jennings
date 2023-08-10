@@ -18,9 +18,7 @@ hidden: true
 
 I am thrilled to announce some exciting news! After dedicating several years to the real estate industry, Anne Chu has decided to expand and enhance her business by forming a partnership with us.
 
-Anne boasts over a decade of experience in project management and advertising, essential skills for achieving top-dollar sales in the real estate market. **She has a genuine passion for her work and is eager to serve more families without compromising the level of service and support she provides.**
-
-Here at Real Estate Experts, we have remarkable systems and support, which Anne can use through our partnership, and in light of this collaboration, we want to offer you valuable resources. If you’re interested in purchasing a home, you can access the MLS and explore all the properties available in Southern California by clicking the "Search for Home" tab on our website.
+Anne boasts over a decade of experience in project management and advertising, essential skills for achieving top-dollar sales in the real estate market. **She has a genuine passion for her work and is eager to serve more families without compromising the level of service and support she provides.**​​​​​​Here at Real Estate Experts, we have remarkable systems and support, which Anne can use through our partnership, and in light of this collaboration, we want to offer you valuable resources. If you’re interested in purchasing a home, you can access the MLS and explore all the properties available in Southern California by clicking the "Search for Home" tab on our website.
 
 {% include pullquote.html %}
 
@@ -29,7 +27,5 @@ On the other hand, if you’re considering selling, click on the "Find My Home V
 In the upcoming weeks and months, we look forward to sharing success stories of the families she has assisted, along with regular updates and news about the Southern California real estate market to keep her clients informed and up-to-date.
 
 If you’re interested in buying, selling, or investing in the L.A. area, know that you can rely on Anne for expert guidance. Call or email us anytime for any of your real estate questions. We’re happy to help.&nbsp;
-
-[**Home Search**](https://bayareahomesearch.com/){: target="_blank" rel="noopener"}
 
 **[Home Value](https://realestateexperts.hifello.com/lp/64d2de3104155600254d9aee){: target="_blank" rel="noopener"}**<br>​​
