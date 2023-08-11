@@ -18,7 +18,7 @@ hidden: true
 
 I am thrilled to announce some exciting news! After dedicating several years to the real estate industry, I have decided to expand and enhance my business by forming a partnership with Real Estate Experts.
 
-I have over a decade of experience in project management and advertising, essential skills for achieving top-dollar sales in the real estate market. **I have a genuine passion for my work and am eager to serve more families without compromising the level of service and support I provide.&nbsp;**​​​​​​Here at Real Estate Experts, we have remarkable systems and support, which I can use through our partnership, and in light of this collaboration, we want to offer you valuable resources. If you’re interested in purchasing a home, you can access the MLS and explore all the properties available in Southern California by clicking the "Search for Home" tab on our website.
+I have over a decade of experience in project management and advertising, essential skills for achieving top-dollar sales in the real estate market. **I have a genuine passion for my work and I am eager to serve more families without compromising the level of service and support I provide.&nbsp;**​​​​​​Here at Real Estate Experts, we have remarkable systems and support, which I can use through our partnership, and in light of this collaboration, we want to offer you valuable resources. If you’re interested in purchasing a home, you can access the MLS and explore all the properties available in Southern California by clicking the "Search for Home" tab on our website.
 
 {% include pullquote.html %}
 
