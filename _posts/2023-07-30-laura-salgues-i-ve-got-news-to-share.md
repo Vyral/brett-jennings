@@ -2,7 +2,7 @@
 layout: post
 title: Laura Salgues | I've Got News to Share
 date: 2023-07-30 05:00:00
-excerpt: Here’s how Laura can help you achieve your home-buying dreams.
+excerpt: Here’s how I can help you achieve your home-buying dreams.
 enclosure:
 pullquote: >-
   I am grateful for the opportunity to be part of this amazing team and the
@@ -18,7 +18,9 @@ hidden: true
 
 {% include excerpt.html %}
 
-I have some exciting news to share! After 12 years in the business, six years on the show, and six years at Redfin as their top listing agent, I have made the best decision of my life. **I am joining an amazing team with incredible support led by Bret Jennings and the Real Estate Experts.**
+Happy Summer!
+
+I have some exciting news that may benefit you. After 6 years in real estate I wanted to take my business to the next level and made a move to join Real Estate Experts
 
 Throughout my career, I've had the privilege of assisting hundreds of families in Southern California, with 30 families served in the past year alone, placing me in the top 5% of agents across the region. As I spoke with Bret, I expressed my passion for helping even more families while maintaining the highest level of service and support for my clients.
 
