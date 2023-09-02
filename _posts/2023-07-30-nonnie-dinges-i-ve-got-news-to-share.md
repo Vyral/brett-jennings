@@ -22,4 +22,4 @@ Today, I’m pleased to introduce you to Nonnie Dinges! She has 39 years in real
 
 Don’t hesitate to call or email Nonnie if you are looking to make a move. In the meantime, reach out to us with any questions. We look forward to hearing from you!
 
-**Home Value**<br>​​
+[**Home Value**](https://get.homebot.ai/?id=e4b5a17f-f8ba-405e-8d31-2abb49d56b8d){: target="_blank" rel="noopener"}<br>​​
