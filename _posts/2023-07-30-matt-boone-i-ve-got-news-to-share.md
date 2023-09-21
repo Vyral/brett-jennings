@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Matt Boone | I've Got News to Share
-date: 2023-07-30 05:00:00
+date: 2023-09-20 05:00:00
 excerpt: Learn about my exciting partnership with Real Estate Experts.
 enclosure:
 pullquote: >-
@@ -38,4 +38,4 @@ I'm incredibly excited to leverage the technology, resources, and incredible tea
 
 So whether you're considering buying, selling, or investing, remember, I'm your go-to guy. Brett and I are here, ready to help you create a better life through real estate. Reach out to us anytime, and let's start this exciting journey together!
 
-**Home Value**<br>​​
+**[Home Search](https://mattboone.bayareahomesearch.com/){: target="_blank" rel="noopener"}<br><br>[Home Value](https://get.homebot.ai/?id=a07b6dd8-30ca-4004-aa5d-fddc4fe8ac11){: target="_blank" rel="noopener"}**<br>​​
