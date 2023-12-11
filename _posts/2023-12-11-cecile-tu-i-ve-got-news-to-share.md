@@ -30,4 +30,4 @@ Initiating this joint endeavor, we offer options for potential clients: Click on
 
 Cecile emphasizes her availability to assist in property transactions or enhancements. Whether you’re buying, selling, or making upgrades, feel free to reach out to her for real estate support.
 
-**[Home Search](https://bayareahomesearch.com/){: target="_blank" rel="noopener"}<br><br>Home Value**<br>​​
+**[Home Search](https://bayareahomesearch.com/){: target="_blank" rel="noopener"}<br><br>[Home Value](https://www.bayareahomesearch.com/home-valuation/){: target="_blank" rel="noopener"}**<br>​​
