@@ -8,7 +8,7 @@ pullquote: Putting off your home purchase will cost you in the long run.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2-1.png
+youtube_alternate_image: /uploads/2-15.jpg
 youtube_code: YJaVMlIPa5g
 hidden: false
 ---
