@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discover Why Now is the Perfect Time to Buy Your Home
+title: Should You Buy Now or Wait Till Summer?
 date: 2024-01-08 05:00:00
 excerpt: Here are the top three reasons why you should consider buying ASAP.
 enclosure:
