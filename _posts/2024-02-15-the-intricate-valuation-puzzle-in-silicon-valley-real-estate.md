@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Truth Behind Home Values
+title: Is Price Per Square Foot the Best Metric for Home Valuation?
 date: 2024-02-15 05:00:00
 excerpt: ' Why you shouldn’t rely solely on price per square foot for valuations.'
 enclosure:
