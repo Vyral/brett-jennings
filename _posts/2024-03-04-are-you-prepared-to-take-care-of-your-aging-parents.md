@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are You Prepared To Take Care of Your Aging Parents?
+title: Are you ready to take care of your mom and/or dad if something happened?
 date: 2024-03-04 05:00:00
 excerpt: Here’s what you need to know about having a plan for mom and dad.
 enclosure:
