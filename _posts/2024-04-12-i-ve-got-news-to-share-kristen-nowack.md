@@ -28,4 +28,4 @@ On the other hand, if you are planning to sell, click on â€œFind My Home Valueâ€
 
 In the coming weeks and months, Kristen will be sharing success stories and market updates to keep you informed about the latest developments in Bay Area real estate.
 
-If you have questions or are ready to start your buying or selling journey, reach out to me by phone or email. I am available seven days a week to assist you. Together with Kristen, your go-to gal for all things real estate, and the rest of the team, we are here to help you create a better life through real estate.
+If you have questions or are ready to start your buying or selling journey, reach out to me by phone or email. I am available seven days a week to assist you. Together with Kristen, your go-to gal for all things real estate, and the rest of the team, we are here to help you create a better life through real estate.<br><br>[**Home Search**](https://realestateexperts.ruuster.com/agent/kristen-nowack){: target="_blank" rel="noopener"}<br><br>[**Home Value**](https://get.homebot.ai/?id=515fb202-acd6-480f-bc88-9a76a6aedbf3){: target="_blank" rel="noopener"}
