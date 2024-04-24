@@ -22,4 +22,4 @@ With a background in interior design and construction, including owning a restau
 
 In the coming weeks, I'll share success stories and market updates, so look out for them! I'm excited about 2024 and eager to assist with buying, selling, investing, or remodeling. Let's create a better life through real estate; call or email us anytime!
 
-[**Home Search**](https://realestateexperts.ruuster.com/agent/melissa-radtke){: target="_blank" rel="noopener"}**<br><br>**[**Home Value**](https://get.homebot.ai/?id=30ba332c-f10a-4efa-9f62-4c4e32628234){: target="_blank" rel="noopener"} ** ** <br>​​
+[**Home Search**](https://realestateexperts.ruuster.com/agent/melissa-radtke){: target="_blank" rel="noopener"}**<br><br>**[**Home Value**](https://get.homebot.ai/?id=30ba332c-f10a-4efa-9f62-4c4e32628234){: target="_blank" rel="noopener"}<br>​​
