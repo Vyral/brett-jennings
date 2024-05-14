@@ -28,6 +28,6 @@ You can now search for homes right from our website or even get a free estimate 
 
 But that’s just the start. For an even more accurate assessment of your home’s value, you need a real estate expert like me in your corner. In the coming weeks, I’ll be sharing stories of the families I’ve been privileged to help every month, as well as market updates and answers to your burning questions.
 
-So send me your questions! Be sure to reach out by phone or email for any of your real estate needs, whether it is buying, selling, or investing. I’m here to be your real estate expert.
+So send me your questions! Be sure to reach out by phone or email for any of your real estate needs, whether it is buying, selling, or investing. I’m here to be your real estate expert.<br><br>[**Home Value**](https://get.homebot.ai/?id=ccb3a4e6-b5c1-4680-bbd8-7281d8f2e0a5){: target="_blank" rel="noopener"}<br><br>[**Home Search**](https://realestateexperts.ruuster.com/agent/kathy-tai){: target="_blank" rel="noopener"}
 
 &nbsp;
