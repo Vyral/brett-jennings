@@ -31,4 +31,4 @@ As you know, the Bay Area has many unique micro-communities. Every home is uniqu
 
 In the coming weeks and months, I will continue to share success stories of families I’ve helped, as well as market updates to keep you informed about Bay Area real estate. Whether you’re just considering a move or ready to make that jump, reach out to me. We can chat over coffee or a cocktail—just call me.
 
-I'm your gal. Until next time, this is Audrey and Brett, ready to help you create a better life through real estate. Have a great day!<br><br>**Home Search**<br><br>**Home Value**
+I'm your gal. Until next time, this is Audrey and Brett, ready to help you create a better life through real estate. Have a great day!<br><br>[**Home Search**](https://realestateexperts.ruuster.com/agent/ani-gregorians-beddow){: target="_blank" rel="noopener"}<br><br>[**Home Value**](https://get.homebot.ai/?id=a29cac3b-4d4d-41da-8afd-7656856dbd4b){: target="_blank" rel="noopener"}
