@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Silicon Valley Summer 2024 Housing Market Update
+title: Bay Area Summer Market Update and Forecast
 date: 2024-07-12 05:00:00
 excerpt: What buyers and sellers need to know about our housing market.
 enclosure:
