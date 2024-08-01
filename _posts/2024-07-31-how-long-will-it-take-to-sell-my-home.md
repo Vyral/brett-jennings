@@ -10,7 +10,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/brett-jennings-ss-template.png
 youtube_code:
-hidden: false
+hidden: true
 ---
 Wondering how long it will take to sell your home this summer? According to Redfin, the average home takes about 32 days on the market to sell. However, this number is just an average; in reality, some homes sell almost instantly, while others stagnate on the market for months. Why is this? In my opinion, it comes down to three key factors: Condition, accessibility, and pricing. Today, I’m going to break down each of these factors and explain how you can leverage them to sell your home faster:
 
