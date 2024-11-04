@@ -12,7 +12,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/5.jpg
+youtube_alternate_image: /uploads/5-1.jpg
 youtube_code: 9J0FiC8vAjI
 hidden: false
 ---
@@ -20,9 +20,9 @@ hidden: false
 
 {% include excerpt.html %}
 
-In the real estate industry, it’s widely accepted by experts across different fields that staging nets you more money for your sale, but I’ve spoken to a lot of homeowners who think it's a waste of time or money. If you’re on the fence about staging, here’s the truth: A few thousand dollars invested in staging can get you a five-to-one return on your investment and save you tons of time in the long run, which is why I always recommend sellers stage their properties. Here are the three most important benefits of staging you don’t want to miss out on.
+In the real estate industry, it’s widely accepted by experts across different fields that staging nets you more money for your sale, but I’ve spoken to a lot of homeowners who think it’s a waste of time or money. If you’re on the fence about staging, here’s the truth: A few thousand dollars invested in staging can get you a five-to-one return on your investment and save you tons of time in the long run, which is why I always recommend sellers stage their properties. Here are the three most important benefits of staging you don’t want to miss out on.
 
-**1\. Staging minimizes issues and highlights features.** No home is 100% perfect, but staging allows you to move the buyer's focus away from any flaws in your walls, floors, or doors towards your strengths. Small rooms, dated features, and older elements can all be downplayed by proper staging. Items that could normally be sticking points at negotiations might be looked over by buyers who are attracted to your property’s highlighted features, so if you want a smooth home sale, I highly recommend staging.
+**1\. Staging minimizes issues and highlights features.** No home is 100% perfect, but staging allows you to move the buyer’s focus away from any flaws in your walls, floors, or doors towards your strengths. Small rooms, dated features, and older elements can all be downplayed by proper staging. Items that could normally be sticking points at negotiations might be looked over by buyers who are attracted to your property’s highlighted features, so if you want a smooth home sale, I highly recommend staging.
 
 **2\. Staging turns your home into a shopping experience.** Have you ever visited a model home? If you have, you know they have a clean, neutral feel that enables you to see yourself living there instead of as a messy place where life happens. Your home probably has some unique personality traits that could be a turn-off for certain buyers. By depersonalizing your home with staging, you can avoid these issues and present your home as a blank slate buyers can project their desires on to.
 
