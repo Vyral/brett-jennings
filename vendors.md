@@ -13,6 +13,8 @@ Below is our list of platinum vendors. All of these professionals are our servic
 
 &nbsp;
 
+&nbsp;
+
 [Click here for a free solar consultation](http://provoltz.com/faq/do-i-qualify-for-solar/){: target="_blank" rel="noopener"}
 
 We chose ProVoltz as our partner as they are Diamond Certified and 5Star on Yelp. In addition everyone at ProVoltz is an experienced solar expert consultant, designer, or installer. They also choose only the best products for their customers that represent the highest value for your solar investment. They only use SunPower panels, the premier solar manufacturer in the industry, because they provide the greatest return on your investment period. Their custom hybrid mounting systems and can work with any type of roof you may have. Let them know about your special situation, so they can help you find the best solution.
