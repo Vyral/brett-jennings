@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should I Consider an Investor Offer?
+title: Should I Consider an All Cash Investor Offer?
 date: 2024-10-29 05:00:00
 excerpt: >-
   A lot of homeowners are confused about why they’d ever accept a low investor
@@ -18,7 +18,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-Recently, I received a call from a friend asking about an offer they received while trying to sell their home. Even though they had priced their home very reasonably, this offer was well below what they were expecting—what was happening? As it turned out, this offer came from an investor.
+Recently, I received a call from a friend asking about an all cash offer they received while trying to sell their home. Even though they had priced their home very reasonably, this offer was well below what they were expecting—what was happening? As it turned out, this offer came from an investor.
 
 In case you aren’t aware, offers from investors are becoming more common all across the country. According to Business Insider, 44% of homes were purchased by investors in 2023, and this number is expected to increase.
 
