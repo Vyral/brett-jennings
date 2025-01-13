@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What To Expect From the 2025 Bay Area Real Estate Market
+title: What’s Happening in Bay Area’s Housing Market in 2025?
 date: 2025-01-12 05:00:00
-excerpt: Lower mortgage rates set to boost bay area sales in 2025
+excerpt: Lower mortgage rates may drive up real estate activity in 2025.
 enclosure:
 pullquote: >-
   The Federal Reserve is expected to lower rates gradually in 2025, potentially
@@ -22,7 +22,7 @@ If you’re wondering what’s happening with inventory, prices, and mortgage ra
 
 **Sellers are coming back to the market, but not in large numbers.** In 2024, we saw a 15% increase in new listings, but buyers were quick to act. Inventory in Silicon Valley dropped nearly 30% in November alone. Across the Bay Area, inventory is at or near record lows, especially in Silicon Valley. What does this mean? Fewer options for buyers but strong price stability for sellers.
 
-Even with fewer listings, prices remain strong. Home prices are slightly below their summer peaks but still up year to date. In Silicon Valley, single-family homes saw year-over-year price increases: 6.3% in San Mateo County and 6.9% in Santa Clara County. This shows that demand is still high, even with higher mortgage rates.
+**Even with fewer listings, prices remain strong.** Home prices are slightly below their summer peaks but still up year to date. In Silicon Valley, single-family homes saw year-over-year price increases: 6.3% in San Mateo County and 6.9% in Santa Clara County. This shows that demand is still high, even with higher mortgage rates.
 
 {% include pullquote.html %}
 
