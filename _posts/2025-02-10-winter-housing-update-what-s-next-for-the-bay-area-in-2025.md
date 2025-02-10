@@ -16,17 +16,17 @@ hidden: false
 
 {% include excerpt.html %}
 
-The Bay Area housing market is shifting as 2025 begins. Changes in inventory, buyer demand, and economic factors continue to influence market activity. If you're buying or selling this year, understanding how the market performed and what it's going to be like in the months ahead will be crucial for making informed decisions. This winter market update breaks down the latest developments and provides insights into the 2025 housing market forecast that will surely help you as you navigate the new year's market.
+The Bay Area housing market is shifting as 2025 begins. Changes in inventory, buyer demand, and economic factors continue to influence market activity. If you’re buying or selling this year, understanding how the market performed and what it’s going to be like in the months ahead will be crucial for making informed decisions. This winter market update breaks down the latest developments and provides insights into the 2025 housing market forecast that will surely help you as you navigate the new year’s market.
 
 **Watch the full video or use the timestamps below to jump to specific tips and ideas:**
 
 00:00 - Introduction
 
-00:17 - How's the market?
+00:17 - How’s the market?
 
 01:15 - The broader Bay Area market
 
-02:03 - What's driving prices?
+02:03 - What’s driving prices?
 
 03:03 - Rising inventory trend
 
@@ -36,7 +36,7 @@ The Bay Area housing market is shifting as 2025 begins. Changes in inventory, bu
 
 06:17 - Stock market
 
-06:55 - What's the next tech boom?
+06:55 - What’s the next tech boom?
 
 07:55 - Interest rates
 
