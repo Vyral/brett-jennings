@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Winter Housing Update: What’s Next for the Bay Area in 2025'
+title: 'Winter Market Update: What’s Next for the Bay Area in 2025'
 date: 2025-02-10 05:00:00
 excerpt: Rising inventory and a strong job market are shaping the Bay Area.
 enclosure:
