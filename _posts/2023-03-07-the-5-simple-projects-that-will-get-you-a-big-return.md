@@ -11,8 +11,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/screenshot-2023-03-11-at-3-39-23-am.png
-youtube_code: T2dxNQoNRwM
+youtube_alternate_image: /uploads/2-2-4.jpg
+youtube_code: WoiwTZLF4CM
 hidden: false
 ---
 {% include youtube.html %}
