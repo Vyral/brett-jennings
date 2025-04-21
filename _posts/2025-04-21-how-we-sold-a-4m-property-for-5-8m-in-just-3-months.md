@@ -21,9 +21,9 @@ hidden: false
 
 Selling a home can often feel like a gamble with many factors out of your control. Market conditions, buyer interest, and timing all play a part. But what if there was a way to take control and increase your home’s value? This is exactly what we did when we turned a $4 million property into a $5.8 million sale in just three months.
 
-This wasn’t luck. It was the result of a focused strategy, one that anyone can use to unlock a property's full potential. If we can do it, then so can you. Here's how we did it:
+This wasn’t luck. It was the result of a focused strategy, one that anyone can use to unlock a property’s full potential. If we can do it, then so can you. Here’s how we did it:
 
-**Understanding the property's potential.** When the sellers of a property on Altamont Road in Los Altos first came to us, they were thinking about selling the home as-is, with an estimated value between $4 million and $4.1 million. Most agents would have staged the home, listed it, and hoped for the best.
+**Understanding the property’s potential.** When the sellers of a property on Altamont Road in Los Altos first came to us, they were thinking about selling the home as-is, with an estimated value between $4 million and $4.1 million. Most agents would have staged the home, listed it, and hoped for the best.
 
 But we believe the market doesn’t set the price—you do. With the right strategy, we knew we could help the sellers get more money for their property.
 
