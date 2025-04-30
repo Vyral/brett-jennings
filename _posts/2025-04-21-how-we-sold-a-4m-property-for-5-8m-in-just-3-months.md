@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How We Sold a $4M Property for $5.8M in Just 3 Months
+title: How We Helped Our Sellers Net Over $1M in Profit
 date: 2025-04-21 05:00:00
 tags:
 excerpt: >-
-  We sold the property for $1.8 more by using a targeted renovation and
+  We sold the property for $1.8M more by using a targeted renovation and
   strategic selling plan.
 enclosure:
 pullquote: 'The market doesn’t set the price—you do. '
