@@ -51,4 +51,4 @@ What impact will tariffs, taxes, and the stock market have on our summer housing
 
 10:38 — Strategy: Smart seller moves
 
-11:25 — Wrapping up<br><br>Navigating today’s market takes clarity, preparation, and the right strategy. By understanding what drives pricing, demand, and interest rates, you can make smarter decisions whether you're buying or selling. If you want help building your plan for the summer market, you can call me at **408-596-4490** or send an email to [**Brett@TheRealExperts.com**](mailto:Brett@TheRealExperts.com). I look forward to hearing from you.
+11:25 — Wrapping up<br><br>Navigating today’s market takes clarity, preparation, and the right strategy. By understanding what drives pricing, demand, and interest rates, you can make smarter decisions whether you’re buying or selling. If you want help building your plan for the summer market, you can call me at **408-596-4490** or send an email to [**Brett@TheRealExperts.com**](mailto:Brett@TheRealExperts.com). I look forward to hearing from you.
