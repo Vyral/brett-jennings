@@ -46,6 +46,6 @@ The stock market is another positive indicator. After a major dip earlier this y
 
 For buyers, the current market offers value. If rates continue to drop, locking in financing early can be a smart move. Properties on the market for three weeks or longer may be candidates for price reductions, and buyers can often negotiate concessions that improve affordability.
 
-For sellers, preparation and pricing are essential. Buyers are selective, so staging and presentation matter more than ever. It's also important to monitor tech market trends. A strong stock market gives buyers more confidence and more funds to complete a purchase.
+For sellers, preparation and pricing are essential. Buyers are selective, so staging and presentation matter more than ever. It’s also important to monitor tech market trends. A strong stock market gives buyers more confidence and more funds to complete a purchase.
 
-This summer’s market is defined by opportunity, but also by strategy. Whether you're buying, selling, or investing, having a clear plan based on current market dynamics is key to making the most of the season. If you have questions or need guidance, just reach out. You can call me at **<u>408-596-4490</u>** or send an email to [**Brett@TheRealExperts.com**](mailto:Brett@TheRealExperts.com). I look forward to hearing from you.
+This summer’s market is defined by opportunity, but also by strategy. Whether you’re buying, selling, or investing, having a clear plan based on current market dynamics is key to making the most of the season. If you have questions or need guidance, just reach out. You can call me at **<u>408-596-4490</u>** or send an email to [**Brett@TheRealExperts.com**](mailto:Brett@TheRealExperts.com). I look forward to hearing from you.
