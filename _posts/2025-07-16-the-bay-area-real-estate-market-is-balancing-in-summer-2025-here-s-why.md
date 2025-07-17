@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: >-
-  /uploads/the-bay-area-real-estate-market-is-balancing-in-summer-2025-here-s-why-2.jpg
+  /uploads/the-bay-area-real-estate-market-is-balancing-in-summer-2025-here-s-why-2-1.jpg
 youtube_code: KiEh_zviKzc
 hidden: false
 ---
