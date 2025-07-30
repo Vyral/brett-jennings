@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ROI vs ROE: Should You Renovate For Profit or Renovate For Enjoyment?'
+title: Should You Renovate For Profit or For Enjoyment?
 date: 2025-07-26 05:00:00
 tags:
 excerpt: >-
