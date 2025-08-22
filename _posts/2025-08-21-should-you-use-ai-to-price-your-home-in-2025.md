@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should You Use AI To Price Your Home in 2025?
+title: Should You Use AI To Price Your Home?
 date: 2025-08-21 05:00:00
 tags:
 excerpt: >-
