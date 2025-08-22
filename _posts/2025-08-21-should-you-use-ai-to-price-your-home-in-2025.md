@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/should-you-trust-ai-to-price-your-home-in-2025-2.jpg
-youtube_code: J8IEYeTPWAE
+youtube_code: xpSWs_crMKg
 hidden: false
 ---
 {% include youtube.html %}
