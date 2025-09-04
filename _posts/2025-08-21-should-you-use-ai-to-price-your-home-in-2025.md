@@ -19,7 +19,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-If you’re thinking about selling your home this year, you’ve probably checked its value using tools like Zillow or Redfin. These apps promise quick estimates based on data and algorithms, and they’re getting better every year. But here’s the big question: **can you** ***really*** **trust AI to price your most valuable asset accurately?**
+[**Click Here to Instantly See Your Homes Potential Using AI**](https://dashboard.revive.realestate/revive-ai/21458973763?agentId=411101){: target="_blank" rel="noopener"}<br><br>If you’re thinking about selling your home this year, you’ve probably checked its value using tools like Zillow or Redfin. These apps promise quick estimates based on data and algorithms, and they’re getting better every year. But here’s the big question: **can you** ***really*** **trust AI to price your most valuable asset accurately?**
 
 Before you list your home with an AI price estimate, you need to hear this:
 
