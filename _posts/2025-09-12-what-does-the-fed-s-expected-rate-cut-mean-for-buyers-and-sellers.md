@@ -20,8 +20,6 @@ hidden: false
 
 {% include excerpt.html %}
 
-{% include pullquote.html %}
-
 Are lower interest rates really on the way, and what will that mean for buyers and sellers? With Jerome Powell set to speak on September 17th, the market is watching closely. But what most people expect may not be what actually happens with mortgage rates. Here’s what to expect and how it could affect your next move.
 
 **1\. The Fed’s next move**. Jerome Powell, Chair of the Federal Reserve of the United States, is expected to lower the Fed funds rate by a quarter of a point. While that sounds like good news for buyers, it’s important to understand how this actually works.
