@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Does the Fed’s Expected Rate Cut Mean for Buyers and Sellers?
+title: What The Coming Rate Cut  Means For Buyers and Sellers
 date: 2025-09-12 16:00:00
 tags:
   - Market Update
