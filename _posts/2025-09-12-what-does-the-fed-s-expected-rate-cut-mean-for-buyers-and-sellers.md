@@ -14,7 +14,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: >-
   /uploads/what-does-the-fed-s-expected-rate-cut-mean-for-2025-buyers-and-sellers-2-1.jpg
-youtube_code: GLwK0YSGukk
+youtube_code: Vl_nkRK6R_g
 hidden: false
 ---
 {% include youtube.html %}
