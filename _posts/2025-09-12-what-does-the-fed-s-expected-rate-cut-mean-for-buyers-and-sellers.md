@@ -12,7 +12,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/fed-rate-cuts-ss-1.png
+youtube_alternate_image: >-
+  /uploads/what-does-the-fed-s-expected-rate-cut-mean-for-2025-buyers-and-sellers-2.jpg
 youtube_code:
 hidden: false
 ---
