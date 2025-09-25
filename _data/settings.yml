@@ -77,7 +77,8 @@ second_sidebar_CTA:
     CTA_title2: Looking for a Home?
     CTA_text2: Search the entire MLS for your Bay Area home.
     CTA_link_text2: Search the MLS
-    CTA_url2: https://www.bayareahomesearch.com/
+    CTA_url2: >-
+      https://realestateexperts.ruuster.com/agent/adela-dover/listings?address=%7B%22value%22%3A%22ChIJ9T_5iuTKj4ARe3GfygqMnbk%22%2C%22label%22%3A%22San%20Jose%2C%20CA%22%2C%22data%22%3A%5B%7B%22offset%22%3A0%2C%22value%22%3A%22San%20Jose%22%7D%2C%7B%22offset%22%3A10%2C%22value%22%3A%22CA%22%7D%5D%2C%22source%22%3A%22googleAutocomplete%22%7D&bathrooms=all&bedrooms=all&priceMax=0&priceMin=0&status=Active&status=ComingSoon&type=all
 lender:
   show_section: false
   header_text: Preferred Lender
