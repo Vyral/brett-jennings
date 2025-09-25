@@ -16,14 +16,14 @@ custom_links:
 show_custom_links_new_tab: true
 custom_links_new_tab:
   - title: About
-    url: https://www.therealexperts.com/members/brett-jennings/
+    url: https://therealexperts.com/agent/brett-jennings
   - title: Our Team
-    url: https://www.therealexperts.com/our-team/
+    url: https://therealexperts.com/who-we-are
 client:
   name: Brett Jennings
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     Brett Jennings is the owner and founder of Brett Jennings Real Estate
     Experts. Brett is an award-winning luxury home marketing specialist and also
     holds a certificate in negotiation from Harvard Law. In 2017, the Wall
@@ -63,7 +63,7 @@ CTAs:
   first_CTA_URL: https://get.homebot.ai/?id=bfb88f6d-2f28-4650-8fdc-c96a6ee7c8fc
   second_CTA_text: Home Search
   second_CTA_URL: >-
-    https://realestateexperts.ruuster.com/agent/brett-jennings/listings?address=%7B%22value%22%3A%22ChIJ9T_5iuTKj4ARe3GfygqMnbk%22%2C%22label%22%3A%22San%20Jose%2C%20CA%22%2C%22data%22%3A%5B%7B%22offset%22%3A0%2C%22value%22%3A%22San%20Jose%22%7D%2C%7B%22offset%22%3A10%2C%22value%22%3A%22CA%22%7D%5D%2C%22source%22%3A%22googleAutocomplete%22%7D&bathrooms=all&bedrooms=all&priceMax=0&priceMin=0&status=Active&status=ComingSoon&type=all
+    https://realestateexperts.ruuster.com/listings?address=%7B%22value%22%3A%22ChIJ9T_5iuTKj4ARe3GfygqMnbk%22%2C%22label%22%3A%22San%20Jose%2C%20CA%22%2C%22data%22%3A%5B%7B%22offset%22%3A0%2C%22value%22%3A%22San%20Jose%22%7D%2C%7B%22offset%22%3A10%2C%22value%22%3A%22CA%22%7D%5D%2C%22source%22%3A%22googleAutocomplete%22%7D&bathrooms=all&bedrooms=all&priceMax=0&priceMin=0&slug=adela-dover&status=Active&status=ComingSoon&type=all
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your Bay Area Home Worth?
@@ -91,7 +91,7 @@ lender:
   url: http://eyegoop.com
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/RealEstateExpertsSV/
+  facebook_url: https://www.facebook.com/theRealExpertsSV
   linkedin_url: https://www.linkedin.com/in/brettjennings/
   gplus_url:
   youtube_url: https://www.youtube.com/user/TheBrettJenningsTeam?feature=watch
