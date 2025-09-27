@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/september-2025-silicon-valley-real-estate-market-update-2.jpg
+youtube_alternate_image: /uploads/september-2025-silicon-valley-real-estate-market-update-2-1.jpg
 youtube_code: QQC8yBnHlnU
 hidden: false
 ---
