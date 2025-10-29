@@ -19,16 +19,22 @@ hidden: false
 
 {% include excerpt.html %}
 
-Are you a buyer waiting for prices to finally drop, or a seller asking why your home is sitting longer on the market? These are the two biggest questions in Silicon Valley real estate at the moment. With mortgage rates easing, the stock market hitting record highs, and inventory climbing to five-year peaks, the answers aren’t simple, but understanding how supply, demand, interest rates, and the stock market all interact will help you get the full picture.
+If you’ve been hoping for home prices to drop, the Fed’s recent rate cut might sound like good news. But before you get too excited, here’s something important to remember: a rate cut doesn’t automatically mean prices will go down. In some places, it could even push prices up.
 
-Currently, mortgage rates are decreasing, which is improving affordability for buyers. At the same time, the stock market is hitting all-time highs, creating a wealth effect for tech employees whose compensation is tied to equity.
+Here’s what you need to know.
 
-On the supply side, inventory has climbed to near five-year highs, giving buyers homes to choose from. With the Federal Reserve signaling a possible long-term shift away from rate hikes, we may be seeing the early stages of a meaningful trend change.
+**How the rate cut affects mortgage rates.** In mid-September, the Fed lowered its main interest rate by 0.25%, marking the first rate cut of the year. This move suggests that further cuts may be ahead. It has already caused mortgage rates to drop a little. The average 30-year fixed mortgage is now just above 6%, which is a welcome change from the 7% highs we saw earlier this year.
 
-**Watch the full video to learn what these shifts mean for buyers and sellers in today’s market, or use the timestamps below to skip to the parts that interest you the most:**
+But here’s the catch: Mortgage rates don’t move exactly with the Fed’s actions. They’re more closely tied to the 10-year Treasury yield, which is influenced by inflation, bond markets, and investor sentiment. So, even if the Fed cuts rates again, mortgage rates might not keep dropping, and they may not stay low.
 
-00:00 — Driving forces in Silicon Valley real estate<br>00:44 — Factors shaping today’s market<br>01:18 — What this means for buyers and sellers<br>01:49 — Rising listings in Santa Clara & San Mateo<br>02:31 — Months of inventory explained<br>03:04 — Buyer demand and negotiation trends<br>03:56 — Price per square foot update<br>04:48 — Median price growth<br>05:12 — Mortgage rate outlook<br>06:07 — Stock market and luxury segment<br>06:59 — Market forecast scenarios<br>08:20 — Seller advice: the three P’s<br>08:49 — Buyer advice: why act now<br>10:12 — Mortgage applications surge<br>10:39 — When buyer demand shows up in data<br>11:04 — The cost of waiting to buy<br>11:52 — Key indicators to watch<br>12:26 — Building your real estate plan
+{% include pullquote.html %}
 
-If you’re considering buying or selling in Silicon Valley, now is the time to get clarity on your goals and build a strategy. We can help you understand where the market is headed, prepare your home for a successful sale, or position you to buy at the right time. Reach out today at [**408-596-4490**](tel:408-596-4490) and [**Brett@TheRealExperts.com**](mailto:Brett@TheRealExperts.com). I’ll help you take advantage of this unique moment in the market.
+Also, even when mortgage rates fall, home prices don’t always drop with them. In fact, lower mortgage rates can bring more buyers into the market, which leads to more competition. In areas where there aren’t many homes for sale, this increased demand can actually push prices higher.<br>**<br>What this means for you.** The good news is that the inventory is improving. Recent reports show that the housing supply is up by more than 30% compared to last year. Some markets are seeing prices cool off a little, while in other areas, prices are continuing to rise.
 
-&nbsp;
+**If you’re a buyer,** now could be a good time to get back into the market. With rates a little lower, you might have more room to negotiate, especially if sellers are adjusting to a slower market. But don’t wait too long, hoping for a big drop in prices. Experts say that while price growth is slowing down, we likely won’t see major price drops unless mortgage rates fall a lot more.
+
+**If you’re a seller,** this is your chance to be strategic, since the market is changing. While some buyers are returning because of the lower rates, others remain sensitive about prices. Setting the right asking price and working with a local agent who understands your market’s dynamics can make a big difference.
+
+The Fed’s rate cut is just one part of the picture. This fall, buyers and sellers who stay informed and flexible will be in the best position to make a smart move.
+
+Thinking about buying or selling a home? Just reach out through call or email, and I’ll help you make a solid plan—the earlier, the better. I look forward to hearing from you!
