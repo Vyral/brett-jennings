@@ -21,7 +21,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-Are you starting to wonder what the housing market will look like next year? In 2025, homebuyers and sellers in &lt;city&gt; are worried about a crash, but they don’t want to miss out on better timing either.
+Are you starting to wonder what the housing market will look like next year? In 2025, homebuyers and sellers in the Bay Area are worried about a crash, but they don’t want to miss out on better timing either.
 
 After reviewing current trends and expert forecasts, I noted three key trends that I believe could shape real estate in 2026:
 
