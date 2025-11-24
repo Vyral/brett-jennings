@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/will-the-recent-rate-cut-lower-home-prices-this-fall-2.jpg
-youtube_code: uTYNbZ0H3YI
+youtube_code: kkaoC6CZ8Aw
 hidden: false
 ---
 {% include youtube.html %}
