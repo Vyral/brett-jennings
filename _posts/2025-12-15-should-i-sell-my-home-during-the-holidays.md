@@ -8,7 +8,7 @@ excerpt: >-
   to sell. Here’s why this season’s motivated buyers and low competition could
   work to your advantage.
 enclosure:
-pullquote: he holidays bring a sense of comfort that helps buyers connect with a home.
+pullquote: The holidays bring a sense of comfort that helps buyers connect with a home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
