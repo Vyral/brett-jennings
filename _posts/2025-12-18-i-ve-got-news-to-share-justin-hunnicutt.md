@@ -30,6 +30,6 @@ Through this partnership, you’ll now get access to some amazing new tools:
 
 And most importantly, you’ll still have me as your go-to advisor, helping you interpret these insights, make strategic decisions, and guide you every step of the way.
 
-If you’re buying, selling, or just curious about what’s possible with this new tech, I’d love to show you what we can do together. Call or text me at [408-596-4490](tel:408-596-4490) or email me at [Brett@TheRealExperts.com](mailto:Brett@TheRealExperts.com), and I’ll walk you through it.<br><br>[**Home Value**](https://dashboard.revive.realestate/revive-ai/21458973763?agentId=5754101){: target="_blank" rel="noopener"}<br><br>[**Home Search**](https://realestateexperts.ruuster.com/agent/justin-berman-hunnicutt){: target="_blank" rel="noopener"}
+If you’re buying, selling, or just curious about what’s possible with this new tech, I’d love to show you what we can do together. Call or text me at number&gt; or email me at &lt;email&gt;, and I’ll walk you through it.<br><br>[**Home Value**](https://dashboard.revive.realestate/revive-ai/21458973763?agentId=5754101){: target="_blank" rel="noopener"}<br><br>[**Home Search**](https://realestateexperts.ruuster.com/agent/justin-berman-hunnicutt){: target="_blank" rel="noopener"}
 
 &nbsp;
