@@ -18,7 +18,7 @@ hidden: true
 
 {% include excerpt.html %}
 
-I’m excited to share this great news that many will surely love. After 10 incredible years in real estate and helping over 100 families, I’m taking the next big step. I’ve officially partnered with *Brett Jennings* and the award-winning team at the *Real Estate Experts*.
+[**Search for Homes Here**](https://realestateexperts.ruuster.com/agent/justin-berman-hunnicutt){: target="_blank" rel="noopener"}<br><br>[**See Your Home Value Instantly**](https://dashboard.revive.realestate/revive-ai/21458973763?agentId=5754101){: target="_blank" rel="noopener"}<br><br>I’m excited to share this great news that many will surely love. After 10 incredible years in real estate and helping over 100 families, I’m taking the next big step. I’ve officially partnered with *Brett Jennings* and the award-winning team at the *Real Estate Experts*.
 
 This collaboration is all about serving my clients at a higher level, combining personalized service with the power of cutting-edge technology and AI.
 
