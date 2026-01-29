@@ -21,6 +21,8 @@ hidden: false
 
 {% include excerpt.html %}
 
+[**CLICK HERE TO SEE THE MARKET UPDATE SLIDES**](https://drive.google.com/file/d/1Mjp29xKuBM2_Il1tqTBPj3OWtWScmJmx/view?usp=sharing){: target="_blank" rel="noopener"}
+
 With falling interest rates, soaring stock market, and low inventory, many are wondering: What’s going to happen to the Silicon Valley housing market in 2026? Will this open doors of opportunity…or risks?
 
 As 2026 begins, the market is experiencing a rare mix of conditions that directly affect both buyers and sellers, making timing and strategy more important than ever. Let’s talk about that and more in this winter market update and forecast.
