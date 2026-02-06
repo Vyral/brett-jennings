@@ -11,7 +11,7 @@ pullquote: The Fed is only part of the story. Other market factors affect your m
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/how-fed-rate-cuts-really-affect-mortgage-rates-in-2026-2.jpg
+youtube_alternate_image: /uploads/how-fed-rate-cuts-really-affect-mortgage-rates-in-2026-2-1.jpg
 youtube_code: MnMdahod8hQ
 hidden: false
 ---
