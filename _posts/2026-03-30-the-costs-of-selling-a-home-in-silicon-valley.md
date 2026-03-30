@@ -39,6 +39,8 @@ In many cases, total commissions on both the buyer and seller side range from ab
 
 While commissions may feel like a big number, they cover essential services such as pricing strategy, professional marketing, negotiation, transaction management, and risk protection. Make sure you know how this cost affects what you actually walk away with before you put your home on the market.
 
+{% include pullquote.html %}
+
 **2\. Pre-sale preparation.** Most homes in Silicon Valley need some work before they go on the market.
 
 This can be simple things like painting, cleaning, yard work, small repairs, or getting inspections done. Sellers often spend anywhere from $10,000 to $100,000 to get their home ready so it stands out.
