@@ -11,7 +11,7 @@ pullquote: Plan ahead so taxes don’t take a bigger share of your hard-earned g
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/the-costs-of-selling-a-home-in-silicon-valley-2.jpg
+youtube_alternate_image: /uploads/the-costs-of-selling-a-home-in-silicon-valley-2-1.jpg
 youtube_code: VEDzek22JZk
 hidden: false
 ---
@@ -21,7 +21,7 @@ hidden: false
 
 How much money will you actually keep after selling your home?
 
-It’s a simple question, but one many sellers don’t fully answer until it's too late. Once you factor in commissions, preparation, taxes, and closing costs, your final number can look very different. Planning ahead is what helps you stay in control.
+It’s a simple question, but one many sellers don’t fully answer until it’s too late. Once you factor in commissions, preparation, taxes, and closing costs, your final number can look very different. Planning ahead is what helps you stay in control.
 
 To see how this plays out in real life, let’s look at a situation many sellers experience.
 
