@@ -11,7 +11,7 @@ pullquote: Plan ahead so taxes don’t take a bigger share of your hard-earned g
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/the-costs-of-selling-a-home-in-silicon-valley-2-1.jpg
+youtube_alternate_image: /uploads/the-costs-of-selling-a-home-in-silicon-valley-2-2.jpg
 youtube_code: VEDzek22JZk
 hidden: false
 ---
