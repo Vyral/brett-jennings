@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Costs of Selling a Home in Silicon Valley
+title: What Sellers Really Pay to Sell a Home
 date: 2026-03-30 05:00:00
 tags:
 excerpt: >-
