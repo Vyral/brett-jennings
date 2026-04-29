@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/the-real-cost-of-owning-a-silicon-valley-home-2.jpg
-youtube_code: jHRVX3m4dGM
+youtube_code: Vf512JAsFAY
 hidden: false
 ---
 {% include youtube.html %}
