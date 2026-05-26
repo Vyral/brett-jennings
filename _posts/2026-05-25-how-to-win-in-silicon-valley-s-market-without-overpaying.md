@@ -51,4 +51,4 @@ This is where hyper-local strategy matters. Knowing how listing agents think, ho
 
 If you’re planning to buy and want a smarter approach that protects your money and gets results, reach out anytime. I’d be happy to help you build a winning game plan without overpaying.
 
-Call or text me at [**408-317-0506**](tel:4083170506){: target="_blank" rel="noopener"}, email [**Brett@TheRealExperts.com**](mailto:Brett@TheRealExperts.com){: target="_blank" rel="noopener"}, or visit [**408-317-0506**](tel:4083170506){: target="_blank" rel="noopener"} for more. You can also explore our [**<u>Buyer's Guide</u>**](https://therealexperts.com/buying) to see how our process gives you an edge before you write your first offer.
+Call or text me at [**408-317-0506**](tel:4083170506){: target="_blank" rel="noopener"}, email [**Brett@TheRealExperts.com**](mailto:Brett@TheRealExperts.com){: target="_blank" rel="noopener"}, or visit [**therealexperts.com**](http://therealexperts.com) for more. You can also explore our [**<u>Buyer's Guide</u>**](https://therealexperts.com/buying) to see how our process gives you an edge before you write your first offer.
