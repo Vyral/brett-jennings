@@ -21,6 +21,10 @@ hidden: false
 
 {% include excerpt.html %}
 
+[**Discover the Top Home Renovation Ideas for Maximum Return**](https://drive.google.com/file/d/1N37mASqLGhrrc8clfUL3KteSMERt4BMb/view?usp=sharing){: target="_blank" rel="noopener"}
+
+Try [**our AI Home Renovation Value Tool**](https://dashboard.revive.realestate/revive-ai/21458973763?agentId=411101)
+
 Summer is here, and if you’re thinking about selling your home, you’ve probably been looking around your house, wondering what’s worth fixing up. Should you redo the kitchen? Repaint the exterior? Finally finish that half-done project in the garage?
 
 Here’s the truth: the most expensive upgrades are rarely the ones that pay off the most. And the ones that do pay off might surprise you. Before you spend a dollar on renovations, here are three things every seller should know in 2026.
