@@ -21,7 +21,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-[**Discover the Top Home Renovation Ideas for Maximum Return**](https://drive.google.com/file/d/1N37mASqLGhrrc8clfUL3KteSMERt4BMb/view?usp=sharing){: target="_blank" rel="noopener"}
+## [**DOWNLOAD: Top Home Renovation Ideas for Maximum Return**](https://drive.google.com/file/d/1N37mASqLGhrrc8clfUL3KteSMERt4BMb/view?usp=sharing){: target="_blank" rel="noopener"}
 
 Try [**our AI Home Renovation Value Tool**](https://dashboard.revive.realestate/revive-ai/21458973763?agentId=411101)
 
