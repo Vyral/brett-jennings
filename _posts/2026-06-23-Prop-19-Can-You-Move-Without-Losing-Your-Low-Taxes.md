@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/prop-19-can-you-move-without-losing-your-low-taxes-2.jpg
+youtube_alternate_image: /uploads/prop-19-can-you-move-without-losing-your-low-taxes-2-1.jpg
 youtube_code: 2gdLi2kNW4I
 hidden: false
 ---
