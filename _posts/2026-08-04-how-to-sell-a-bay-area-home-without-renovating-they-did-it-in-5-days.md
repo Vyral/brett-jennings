@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: >-
   /uploads/they-delayed-their-retirement-move-for-years-because-they-felt-stuck-2.jpg
-youtube_code: QYJ6N0GQEE0
+youtube_code: KH1DUKOY-YA
 hidden: false
 ---
 {% include youtube.html %}
