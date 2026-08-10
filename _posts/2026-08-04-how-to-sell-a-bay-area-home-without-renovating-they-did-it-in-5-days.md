@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How to Sell a Bay Area Home Without Renovating: They Did It in 5 Days'
+title: How Ron & Maria Got Unstuck & Started Their Next Chapter
 date: 2026-08-04 05:00:00
 tags:
 excerpt: >-
