@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Accidental Landlord: Keep It, Sell It, or Trade It?'
+title: How One Client Increased Rent From $4,500/Month to $14,000/Month
 date: 2026-09-20T05:00:00Z
 tags:
 excerpt: If you inherited a rental or kept your old home as one, you have more
