@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Top 4 Reasons Not to Overprice Your Silicon Valley Home
-date: 2026-03-10 05:00:00
+date: 2026-10-22T05:00:00Z
 tags:
-excerpt: >-
-  Overpriced homes sit on the market longer and cost you far more than you
-  think.
+excerpt: Overpriced homes sit on the market longer and cost you far more than you think.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
