@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/top-4-reasons-not-to-overprice-your-silicon-valley-home-2.jpg
+youtube_alternate_image: /uploads/top-4-reasons-not-to-overprice-your-silicon-valley-home-2-1.jpg
 youtube_code: 8YiHq9L6TQk
 hidden: false
 ---
