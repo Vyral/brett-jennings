@@ -1,11 +1,10 @@
 ---
 layout: post
 title: How to Win in Silicon Valley's Market Without Overpaying
-date: 2026-05-25 05:00:00
+date: 2026-10-29T05:00:00Z
 tags:
-excerpt: >-
-  Winning a home in Silicon Valley doesn't always mean paying the highest price.
-  It means knowing how to play the game.
+excerpt: Winning a home in Silicon Valley doesn't always mean paying the highest
+  price. It means knowing how to play the game.
 enclosure:
 pullquote: Winning a home doesn't always mean paying the highest price.
 enclosure_type: video/mp4
